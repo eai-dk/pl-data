@@ -1,0 +1,1068 @@
+{
+  "league": "Premier League",
+  "season": 2025,
+  "generated_utc": "2025-12-31T14:52:08.909710+00:00",
+  "last_n": 5,
+  "teams": {
+    "Manchester United": {
+      "team_id": 33,
+      "logo": "https://media.api-sports.io/football/teams/33.png",
+      "form": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379118,
+          "date_iso": "2025-12-08T20:00:00+00:00",
+          "home": "Wolves",
+          "away": "Manchester United",
+          "score": "1-4",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379125,
+          "date_iso": "2025-12-15T20:00:00+00:00",
+          "home": "Manchester United",
+          "away": "Bournemouth",
+          "score": "4-4",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379129,
+          "date_iso": "2025-12-21T16:30:00+00:00",
+          "home": "Aston Villa",
+          "away": "Manchester United",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379145,
+          "date_iso": "2025-12-26T20:00:00+00:00",
+          "home": "Manchester United",
+          "away": "Newcastle",
+          "score": "1-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379155,
+          "date_iso": "2025-12-30T20:15:00+00:00",
+          "home": "Manchester United",
+          "away": "Wolves",
+          "score": "1-1",
+          "result": "D"
+        }
+      ]
+    },
+    "Newcastle": {
+      "team_id": 34,
+      "logo": "https://media.api-sports.io/football/teams/34.png",
+      "form": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379116,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Newcastle",
+          "away": "Burnley",
+          "score": "2-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379127,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Sunderland",
+          "away": "Newcastle",
+          "score": "1-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379136,
+          "date_iso": "2025-12-20T12:30:00+00:00",
+          "home": "Newcastle",
+          "away": "Chelsea",
+          "score": "2-2",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379145,
+          "date_iso": "2025-12-26T20:00:00+00:00",
+          "home": "Manchester United",
+          "away": "Newcastle",
+          "score": "1-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379151,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Burnley",
+          "away": "Newcastle",
+          "score": "1-3",
+          "result": "W"
+        }
+      ]
+    },
+    "Bournemouth": {
+      "team_id": 35,
+      "logo": "https://media.api-sports.io/football/teams/35.png",
+      "form": [
+        "D",
+        "D",
+        "D",
+        "L",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379110,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Bournemouth",
+          "away": "Chelsea",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379125,
+          "date_iso": "2025-12-15T20:00:00+00:00",
+          "home": "Manchester United",
+          "away": "Bournemouth",
+          "score": "4-4",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379130,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Bournemouth",
+          "away": "Burnley",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379140,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Brentford",
+          "away": "Bournemouth",
+          "score": "4-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379152,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Chelsea",
+          "away": "Bournemouth",
+          "score": "2-2",
+          "result": "D"
+        }
+      ]
+    },
+    "Fulham": {
+      "team_id": 36,
+      "logo": "https://media.api-sports.io/football/teams/36.png",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379103,
+          "date_iso": "2025-12-02T19:30:00+00:00",
+          "home": "Fulham",
+          "away": "Manchester City",
+          "score": "4-5",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379113,
+          "date_iso": "2025-12-07T16:30:00+00:00",
+          "home": "Fulham",
+          "away": "Crystal Palace",
+          "score": "1-2",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379121,
+          "date_iso": "2025-12-13T17:30:00+00:00",
+          "home": "Burnley",
+          "away": "Fulham",
+          "score": "2-3",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379133,
+          "date_iso": "2025-12-22T20:00:00+00:00",
+          "home": "Fulham",
+          "away": "Nottingham Forest",
+          "score": "1-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379148,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "West Ham",
+          "away": "Fulham",
+          "score": "0-1",
+          "result": "W"
+        }
+      ]
+    },
+    "Wolves": {
+      "team_id": 39,
+      "logo": "https://media.api-sports.io/football/teams/39.png",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379118,
+          "date_iso": "2025-12-08T20:00:00+00:00",
+          "home": "Wolves",
+          "away": "Manchester United",
+          "score": "1-4",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379119,
+          "date_iso": "2025-12-13T20:00:00+00:00",
+          "home": "Arsenal",
+          "away": "Wolves",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379138,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Wolves",
+          "away": "Brentford",
+          "score": "0-2",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379144,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Liverpool",
+          "away": "Wolves",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379155,
+          "date_iso": "2025-12-30T20:15:00+00:00",
+          "home": "Manchester United",
+          "away": "Wolves",
+          "score": "1-1",
+          "result": "D"
+        }
+      ]
+    },
+    "Liverpool": {
+      "team_id": 40,
+      "logo": "https://media.api-sports.io/football/teams/40.png",
+      "form": [
+        "D",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379105,
+          "date_iso": "2025-12-03T20:15:00+00:00",
+          "home": "Liverpool",
+          "away": "Sunderland",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379114,
+          "date_iso": "2025-12-06T17:30:00+00:00",
+          "home": "Leeds",
+          "away": "Liverpool",
+          "score": "3-3",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379124,
+          "date_iso": "2025-12-13T15:00:00+00:00",
+          "home": "Liverpool",
+          "away": "Brighton",
+          "score": "2-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379137,
+          "date_iso": "2025-12-20T17:30:00+00:00",
+          "home": "Tottenham",
+          "away": "Liverpool",
+          "score": "1-2",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379144,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Liverpool",
+          "away": "Wolves",
+          "score": "2-1",
+          "result": "W"
+        }
+      ]
+    },
+    "Arsenal": {
+      "team_id": 42,
+      "logo": "https://media.api-sports.io/football/teams/42.png",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379109,
+          "date_iso": "2025-12-06T12:30:00+00:00",
+          "home": "Aston Villa",
+          "away": "Arsenal",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379119,
+          "date_iso": "2025-12-13T20:00:00+00:00",
+          "home": "Arsenal",
+          "away": "Wolves",
+          "score": "2-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379132,
+          "date_iso": "2025-12-20T20:00:00+00:00",
+          "home": "Everton",
+          "away": "Arsenal",
+          "score": "0-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379139,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Arsenal",
+          "away": "Brighton",
+          "score": "2-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379149,
+          "date_iso": "2025-12-30T20:15:00+00:00",
+          "home": "Arsenal",
+          "away": "Aston Villa",
+          "score": "4-1",
+          "result": "W"
+        }
+      ]
+    },
+    "Burnley": {
+      "team_id": 44,
+      "logo": "https://media.api-sports.io/football/teams/44.png",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "L"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379116,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Newcastle",
+          "away": "Burnley",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379121,
+          "date_iso": "2025-12-13T17:30:00+00:00",
+          "home": "Burnley",
+          "away": "Fulham",
+          "score": "2-3",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379130,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Bournemouth",
+          "away": "Burnley",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379141,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Burnley",
+          "away": "Everton",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379151,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Burnley",
+          "away": "Newcastle",
+          "score": "1-3",
+          "result": "L"
+        }
+      ]
+    },
+    "Everton": {
+      "team_id": 45,
+      "logo": "https://media.api-sports.io/football/teams/45.png",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "D",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379112,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Everton",
+          "away": "Nottingham Forest",
+          "score": "3-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379122,
+          "date_iso": "2025-12-13T15:00:00+00:00",
+          "home": "Chelsea",
+          "away": "Everton",
+          "score": "2-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379132,
+          "date_iso": "2025-12-20T20:00:00+00:00",
+          "home": "Everton",
+          "away": "Arsenal",
+          "score": "0-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379141,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Burnley",
+          "away": "Everton",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379156,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Everton",
+          "score": "0-2",
+          "result": "W"
+        }
+      ]
+    },
+    "Tottenham": {
+      "team_id": 47,
+      "logo": "https://media.api-sports.io/football/teams/47.png",
+      "form": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379107,
+          "date_iso": "2025-12-02T20:15:00+00:00",
+          "home": "Newcastle",
+          "away": "Tottenham",
+          "score": "2-2",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379117,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Tottenham",
+          "away": "Brentford",
+          "score": "2-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379126,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Tottenham",
+          "score": "3-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379137,
+          "date_iso": "2025-12-20T17:30:00+00:00",
+          "home": "Tottenham",
+          "away": "Liverpool",
+          "score": "1-2",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379143,
+          "date_iso": "2025-12-28T16:30:00+00:00",
+          "home": "Crystal Palace",
+          "away": "Tottenham",
+          "score": "0-1",
+          "result": "W"
+        }
+      ]
+    },
+    "West Ham": {
+      "team_id": 48,
+      "logo": "https://media.api-sports.io/football/teams/48.png",
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379111,
+          "date_iso": "2025-12-07T14:00:00+00:00",
+          "home": "Brighton",
+          "away": "West Ham",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379128,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "West Ham",
+          "away": "Aston Villa",
+          "score": "2-3",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379135,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Manchester City",
+          "away": "West Ham",
+          "score": "3-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379148,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "West Ham",
+          "away": "Fulham",
+          "score": "0-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379158,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "West Ham",
+          "away": "Brighton",
+          "score": "2-2",
+          "result": "D"
+        }
+      ]
+    },
+    "Chelsea": {
+      "team_id": 49,
+      "logo": "https://media.api-sports.io/football/teams/49.png",
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379110,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Bournemouth",
+          "away": "Chelsea",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379122,
+          "date_iso": "2025-12-13T15:00:00+00:00",
+          "home": "Chelsea",
+          "away": "Everton",
+          "score": "2-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379136,
+          "date_iso": "2025-12-20T12:30:00+00:00",
+          "home": "Newcastle",
+          "away": "Chelsea",
+          "score": "2-2",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379142,
+          "date_iso": "2025-12-27T17:30:00+00:00",
+          "home": "Chelsea",
+          "away": "Aston Villa",
+          "score": "1-2",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379152,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Chelsea",
+          "away": "Bournemouth",
+          "score": "2-2",
+          "result": "D"
+        }
+      ]
+    },
+    "Manchester City": {
+      "team_id": 50,
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379103,
+          "date_iso": "2025-12-02T19:30:00+00:00",
+          "home": "Fulham",
+          "away": "Manchester City",
+          "score": "4-5",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379115,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Manchester City",
+          "away": "Sunderland",
+          "score": "3-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379123,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Crystal Palace",
+          "away": "Manchester City",
+          "score": "0-3",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379135,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Manchester City",
+          "away": "West Ham",
+          "score": "3-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379146,
+          "date_iso": "2025-12-27T12:30:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "score": "1-2",
+          "result": "W"
+        }
+      ]
+    },
+    "Brighton": {
+      "team_id": 51,
+      "logo": "https://media.api-sports.io/football/teams/51.png",
+      "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379111,
+          "date_iso": "2025-12-07T14:00:00+00:00",
+          "home": "Brighton",
+          "away": "West Ham",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379124,
+          "date_iso": "2025-12-13T15:00:00+00:00",
+          "home": "Liverpool",
+          "away": "Brighton",
+          "score": "2-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379131,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Brighton",
+          "away": "Sunderland",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379139,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Arsenal",
+          "away": "Brighton",
+          "score": "2-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379158,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "West Ham",
+          "away": "Brighton",
+          "score": "2-2",
+          "result": "D"
+        }
+      ]
+    },
+    "Crystal Palace": {
+      "team_id": 52,
+      "logo": "https://media.api-sports.io/football/teams/52.png",
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379102,
+          "date_iso": "2025-12-03T19:30:00+00:00",
+          "home": "Burnley",
+          "away": "Crystal Palace",
+          "score": "0-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379113,
+          "date_iso": "2025-12-07T16:30:00+00:00",
+          "home": "Fulham",
+          "away": "Crystal Palace",
+          "score": "1-2",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379123,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Crystal Palace",
+          "away": "Manchester City",
+          "score": "0-3",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379134,
+          "date_iso": "2025-12-20T20:00:00+00:00",
+          "home": "Leeds",
+          "away": "Crystal Palace",
+          "score": "4-1",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379143,
+          "date_iso": "2025-12-28T16:30:00+00:00",
+          "home": "Crystal Palace",
+          "away": "Tottenham",
+          "score": "0-1",
+          "result": "L"
+        }
+      ]
+    },
+    "Brentford": {
+      "team_id": 55,
+      "logo": "https://media.api-sports.io/football/teams/55.png",
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379099,
+          "date_iso": "2025-12-03T19:30:00+00:00",
+          "home": "Arsenal",
+          "away": "Brentford",
+          "score": "2-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379117,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Tottenham",
+          "away": "Brentford",
+          "score": "2-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379120,
+          "date_iso": "2025-12-14T16:30:00+00:00",
+          "home": "Brentford",
+          "away": "Leeds",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379138,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Wolves",
+          "away": "Brentford",
+          "score": "0-2",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379140,
+          "date_iso": "2025-12-27T15:00:00+00:00",
+          "home": "Brentford",
+          "away": "Bournemouth",
+          "score": "4-1",
+          "result": "W"
+        }
+      ]
+    },
+    "Leeds": {
+      "team_id": 63,
+      "logo": "https://media.api-sports.io/football/teams/63.png",
+      "form": [
+        "W",
+        "D",
+        "D",
+        "W",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379104,
+          "date_iso": "2025-12-03T20:15:00+00:00",
+          "home": "Leeds",
+          "away": "Chelsea",
+          "score": "3-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379114,
+          "date_iso": "2025-12-06T17:30:00+00:00",
+          "home": "Leeds",
+          "away": "Liverpool",
+          "score": "3-3",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379120,
+          "date_iso": "2025-12-14T16:30:00+00:00",
+          "home": "Brentford",
+          "away": "Leeds",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379134,
+          "date_iso": "2025-12-20T20:00:00+00:00",
+          "home": "Leeds",
+          "away": "Crystal Palace",
+          "score": "4-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379147,
+          "date_iso": "2025-12-28T14:00:00+00:00",
+          "home": "Sunderland",
+          "away": "Leeds",
+          "score": "1-1",
+          "result": "D"
+        }
+      ]
+    },
+    "Nottingham Forest": {
+      "team_id": 65,
+      "logo": "https://media.api-sports.io/football/teams/65.png",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379112,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Everton",
+          "away": "Nottingham Forest",
+          "score": "3-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379126,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Tottenham",
+          "score": "3-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379133,
+          "date_iso": "2025-12-22T20:00:00+00:00",
+          "home": "Fulham",
+          "away": "Nottingham Forest",
+          "score": "1-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379146,
+          "date_iso": "2025-12-27T12:30:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Manchester City",
+          "score": "1-2",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379156,
+          "date_iso": "2025-12-30T19:30:00+00:00",
+          "home": "Nottingham Forest",
+          "away": "Everton",
+          "score": "0-2",
+          "result": "L"
+        }
+      ]
+    },
+    "Aston Villa": {
+      "team_id": 66,
+      "logo": "https://media.api-sports.io/football/teams/66.png",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379109,
+          "date_iso": "2025-12-06T12:30:00+00:00",
+          "home": "Aston Villa",
+          "away": "Arsenal",
+          "score": "2-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379128,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "West Ham",
+          "away": "Aston Villa",
+          "score": "2-3",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379129,
+          "date_iso": "2025-12-21T16:30:00+00:00",
+          "home": "Aston Villa",
+          "away": "Manchester United",
+          "score": "2-1",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379142,
+          "date_iso": "2025-12-27T17:30:00+00:00",
+          "home": "Chelsea",
+          "away": "Aston Villa",
+          "score": "1-2",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379149,
+          "date_iso": "2025-12-30T20:15:00+00:00",
+          "home": "Arsenal",
+          "away": "Aston Villa",
+          "score": "4-1",
+          "result": "L"
+        }
+      ]
+    },
+    "Sunderland": {
+      "team_id": 746,
+      "logo": "https://media.api-sports.io/football/teams/746.png",
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "D"
+      ],
+      "last_matches": [
+        {
+          "fixture_id": 1379105,
+          "date_iso": "2025-12-03T20:15:00+00:00",
+          "home": "Liverpool",
+          "away": "Sunderland",
+          "score": "1-1",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379115,
+          "date_iso": "2025-12-06T15:00:00+00:00",
+          "home": "Manchester City",
+          "away": "Sunderland",
+          "score": "3-0",
+          "result": "L"
+        },
+        {
+          "fixture_id": 1379127,
+          "date_iso": "2025-12-14T14:00:00+00:00",
+          "home": "Sunderland",
+          "away": "Newcastle",
+          "score": "1-0",
+          "result": "W"
+        },
+        {
+          "fixture_id": 1379131,
+          "date_iso": "2025-12-20T15:00:00+00:00",
+          "home": "Brighton",
+          "away": "Sunderland",
+          "score": "0-0",
+          "result": "D"
+        },
+        {
+          "fixture_id": 1379147,
+          "date_iso": "2025-12-28T14:00:00+00:00",
+          "home": "Sunderland",
+          "away": "Leeds",
+          "score": "1-1",
+          "result": "D"
+        }
+      ]
+    }
+  }
+}
