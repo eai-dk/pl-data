@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:54:30.755194Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 22,
+    "player_name": "J. Bruun Larsen",
+    "team": 44,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379151,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Newcastle",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 16,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379141,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Burnley",
+      "away": "Everton",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 73,
+      "shots": 2,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379130,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Bournemouth",
+      "away": "Burnley",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 66,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379121,
+      "date": "2025-12-13T17:30:00+00:00",
+      "home": "Burnley",
+      "away": "Fulham",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 77,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "7.5"
+    },
+    {
+      "fixture_id": 1379116,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Newcastle",
+      "away": "Burnley",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 86,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379102,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Crystal Palace",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 45,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379090,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Brentford",
+      "away": "Burnley",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 15,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379082,
+      "date": "2025-11-22T12:30:00+00:00",
+      "home": "Burnley",
+      "away": "Chelsea",
+      "player_id": 22,
+      "player_name": "J. Bruun Larsen",
+      "minutes": 14,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:51:18.555272Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 409303,
+    "player_name": "E. Diouf",
+    "team": 48,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379158,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "West Ham",
+      "away": "Brighton",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379148,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "West Ham",
+      "away": "Fulham",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379135,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "West Ham",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379128,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "West Ham",
+      "away": "Aston Villa",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "5.9"
+    },
+    {
+      "fixture_id": 1379111,
+      "date": "2025-12-07T14:00:00+00:00",
+      "home": "Brighton",
+      "away": "West Ham",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": 83,
+      "shots": 2,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379106,
+      "date": "2025-12-04T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "West Ham",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379098,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "West Ham",
+      "away": "Liverpool",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379080,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Bournemouth",
+      "away": "West Ham",
+      "player_id": 409303,
+      "player_name": "E. Diouf",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    }
+  ]
+}

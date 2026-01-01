@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:49:16.495797Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 270508,
+    "player_name": "L. Ugochukwu",
+    "team": 44,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379151,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Newcastle",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 88,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7"
+    },
+    {
+      "fixture_id": 1379141,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Burnley",
+      "away": "Everton",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379130,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Bournemouth",
+      "away": "Burnley",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 82,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379121,
+      "date": "2025-12-13T17:30:00+00:00",
+      "home": "Burnley",
+      "away": "Fulham",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 83,
+      "shots": 3,
+      "shots_on_target": 3,
+      "position": "M",
+      "rating": "7.9"
+    },
+    {
+      "fixture_id": 1379116,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Newcastle",
+      "away": "Burnley",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379102,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Crystal Palace",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 19,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379090,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Brentford",
+      "away": "Burnley",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 30,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379082,
+      "date": "2025-11-22T12:30:00+00:00",
+      "home": "Burnley",
+      "away": "Chelsea",
+      "player_id": 270508,
+      "player_name": "L. Ugochukwu",
+      "minutes": 72,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    }
+  ]
+}

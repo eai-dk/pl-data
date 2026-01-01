@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:55:03.847291Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 392482,
+    "player_name": "C. Kostoulas",
+    "team": 51,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379158,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "West Ham",
+      "away": "Brighton",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 13,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379139,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Arsenal",
+      "away": "Brighton",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 9,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379131,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Brighton",
+      "away": "Sunderland",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 19,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379124,
+      "date": "2025-12-13T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Brighton",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 8,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379111,
+      "date": "2025-12-07T14:00:00+00:00",
+      "home": "Brighton",
+      "away": "West Ham",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 18,
+      "shots": 4,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379101,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Brighton",
+      "away": "Aston Villa",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": 13,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379095,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Brighton",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379081,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Brighton",
+      "away": "Brentford",
+      "player_id": 392482,
+      "player_name": "C. Kostoulas",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": null
+    }
+  ]
+}

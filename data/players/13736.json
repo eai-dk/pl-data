@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:46:12.671922Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 13736,
+    "player_name": "D. Muñoz",
+    "team": 52,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379143,
+      "date": "2025-12-28T16:30:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Tottenham",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379134,
+      "date": "2025-12-20T20:00:00+00:00",
+      "home": "Leeds",
+      "away": "Crystal Palace",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379123,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379113,
+      "date": "2025-12-07T16:30:00+00:00",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379102,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Crystal Palace",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379092,
+      "date": "2025-11-30T12:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Manchester United",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379088,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Wolves",
+      "away": "Crystal Palace",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379072,
+      "date": "2025-11-09T14:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Brighton",
+      "player_id": 13736,
+      "player_name": "D. Muñoz",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    }
+  ]
+}

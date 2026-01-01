@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:54:04.452238Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 22149,
+    "player_name": "I. Sangaré",
+    "team": 65,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379156,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Everton",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379146,
+      "date": "2025-12-27T12:30:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379133,
+      "date": "2025-12-22T20:00:00+00:00",
+      "home": "Fulham",
+      "away": "Nottingham Forest",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379126,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Tottenham",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": 90,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "9.9"
+    },
+    {
+      "fixture_id": 1379112,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Everton",
+      "away": "Nottingham Forest",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": 45,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379108,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Wolves",
+      "away": "Nottingham Forest",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": 67,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379095,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Brighton",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": 74,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.6"
+    },
+    {
+      "fixture_id": 1379085,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "player_id": 22149,
+      "player_name": "I. Sangaré",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.2"
+    }
+  ]
+}

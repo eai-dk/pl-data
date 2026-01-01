@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:46:26.171734Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 19461,
+    "player_name": "L. Nmecha",
+    "team": 63,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379147,
+      "date": "2025-12-28T14:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Leeds",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": 17,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379134,
+      "date": "2025-12-20T20:00:00+00:00",
+      "home": "Leeds",
+      "away": "Crystal Palace",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379120,
+      "date": "2025-12-14T16:30:00+00:00",
+      "home": "Brentford",
+      "away": "Leeds",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379114,
+      "date": "2025-12-06T17:30:00+00:00",
+      "home": "Leeds",
+      "away": "Liverpool",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379104,
+      "date": "2025-12-03T20:15:00+00:00",
+      "home": "Leeds",
+      "away": "Chelsea",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": 67,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379094,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Leeds",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": 82,
+      "shots": 3,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379084,
+      "date": "2025-11-23T14:00:00+00:00",
+      "home": "Leeds",
+      "away": "Aston Villa",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": 71,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "7.6"
+    },
+    {
+      "fixture_id": 1379075,
+      "date": "2025-11-09T14:00:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Leeds",
+      "player_id": 19461,
+      "player_name": "L. Nmecha",
+      "minutes": 74,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "7.6"
+    }
+  ]
+}

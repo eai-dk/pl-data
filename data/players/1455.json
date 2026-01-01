@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:47:24.140678Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 1455,
+    "player_name": "A. Iwobi",
+    "team": 36,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379148,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "West Ham",
+      "away": "Fulham",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379133,
+      "date": "2025-12-22T20:00:00+00:00",
+      "home": "Fulham",
+      "away": "Nottingham Forest",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379121,
+      "date": "2025-12-13T17:30:00+00:00",
+      "home": "Burnley",
+      "away": "Fulham",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 79,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379113,
+      "date": "2025-12-07T16:30:00+00:00",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 89,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379103,
+      "date": "2025-12-02T19:30:00+00:00",
+      "home": "Fulham",
+      "away": "Manchester City",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "8"
+    },
+    {
+      "fixture_id": 1379097,
+      "date": "2025-11-29T20:00:00+00:00",
+      "home": "Tottenham",
+      "away": "Fulham",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 87,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379083,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Fulham",
+      "away": "Sunderland",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 89,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "7.2"
+    },
+    {
+      "fixture_id": 1379073,
+      "date": "2025-11-08T15:00:00+00:00",
+      "home": "Everton",
+      "away": "Fulham",
+      "player_id": 1455,
+      "player_name": "A. Iwobi",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "M",
+      "rating": "6.9"
+    }
+  ]
+}

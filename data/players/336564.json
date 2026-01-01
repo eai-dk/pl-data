@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:51:32.176018Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 336564,
+    "player_name": "W. Odobert",
+    "team": 47,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379143,
+      "date": "2025-12-28T16:30:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Tottenham",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 27,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379137,
+      "date": "2025-12-20T17:30:00+00:00",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 19,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379126,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Tottenham",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379117,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Tottenham",
+      "away": "Brentford",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 16,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379107,
+      "date": "2025-12-02T20:15:00+00:00",
+      "home": "Newcastle",
+      "away": "Tottenham",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 13,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379097,
+      "date": "2025-11-29T20:00:00+00:00",
+      "home": "Tottenham",
+      "away": "Fulham",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 30,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379079,
+      "date": "2025-11-23T16:30:00+00:00",
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 66,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379077,
+      "date": "2025-11-08T12:30:00+00:00",
+      "home": "Tottenham",
+      "away": "Manchester United",
+      "player_id": 336564,
+      "player_name": "W. Odobert",
+      "minutes": 45,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "7.5"
+    }
+  ]
+}
