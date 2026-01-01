@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:11:16.547303Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 18861,
+    "player_name": "N. Aké",
+    "team": 50,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379146,
+      "date": "2025-12-27T12:30:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": 1,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379135,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "West Ham",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379123,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379115,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": 20,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379103,
+      "date": "2025-12-02T19:30:00+00:00",
+      "home": "Fulham",
+      "away": "Manchester City",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": 1,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379094,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Leeds",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379087,
+      "date": "2025-11-22T17:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Manchester City",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379074,
+      "date": "2025-11-09T16:30:00+00:00",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "player_id": 18861,
+      "player_name": "N. Aké",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    }
+  ]
+}

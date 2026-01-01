@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:14:46.782576Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 392270,
+    "player_name": "Marc Guiu",
+    "team": 746,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379147,
+      "date": "2025-12-28T14:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Leeds",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379131,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Brighton",
+      "away": "Sunderland",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379127,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Newcastle",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379115,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379105,
+      "date": "2025-12-03T20:15:00+00:00",
+      "home": "Liverpool",
+      "away": "Sunderland",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379096,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Bournemouth",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379083,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Fulham",
+      "away": "Sunderland",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379076,
+      "date": "2025-11-08T17:30:00+00:00",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "player_id": 392270,
+      "player_name": "Marc Guiu",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    }
+  ]
+}

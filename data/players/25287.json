@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:14:53.408766Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 25287,
+    "player_name": "K. Danso",
+    "team": 47,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379143,
+      "date": "2025-12-28T16:30:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Tottenham",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7.7"
+    },
+    {
+      "fixture_id": 1379137,
+      "date": "2025-12-20T17:30:00+00:00",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379126,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Tottenham",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379117,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Tottenham",
+      "away": "Brentford",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 9,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379107,
+      "date": "2025-12-02T20:15:00+00:00",
+      "home": "Newcastle",
+      "away": "Tottenham",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7.2"
+    },
+    {
+      "fixture_id": 1379097,
+      "date": "2025-11-29T20:00:00+00:00",
+      "home": "Tottenham",
+      "away": "Fulham",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379079,
+      "date": "2025-11-23T16:30:00+00:00",
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 45,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379077,
+      "date": "2025-11-08T12:30:00+00:00",
+      "home": "Tottenham",
+      "away": "Manchester United",
+      "player_id": 25287,
+      "player_name": "K. Danso",
+      "minutes": 10,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.2"
+    }
+  ]
+}

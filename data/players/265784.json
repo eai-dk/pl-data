@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:15:34.037541Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 265784,
+    "player_name": "André",
+    "team": 39,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379155,
+      "date": "2025-12-30T20:15:00+00:00",
+      "home": "Manchester United",
+      "away": "Wolves",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    },
+    {
+      "fixture_id": 1379144,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Wolves",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.2"
+    },
+    {
+      "fixture_id": 1379138,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Wolves",
+      "away": "Brentford",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379119,
+      "date": "2025-12-13T20:00:00+00:00",
+      "home": "Arsenal",
+      "away": "Wolves",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.2"
+    },
+    {
+      "fixture_id": 1379118,
+      "date": "2025-12-08T20:00:00+00:00",
+      "home": "Wolves",
+      "away": "Manchester United",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "5.9"
+    },
+    {
+      "fixture_id": 1379108,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Wolves",
+      "away": "Nottingham Forest",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379089,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "Aston Villa",
+      "away": "Wolves",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.3"
+    },
+    {
+      "fixture_id": 1379088,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Wolves",
+      "away": "Crystal Palace",
+      "player_id": 265784,
+      "player_name": "André",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "7.2"
+    }
+  ]
+}

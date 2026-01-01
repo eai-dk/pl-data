@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:11:23.568044Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 366735,
+    "player_name": "Joshua Kofi Acheampong",
+    "team": 49,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379152,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Chelsea",
+      "away": "Bournemouth",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": 45,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "5.6"
+    },
+    {
+      "fixture_id": 1379142,
+      "date": "2025-12-27T17:30:00+00:00",
+      "home": "Chelsea",
+      "away": "Aston Villa",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379136,
+      "date": "2025-12-20T12:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Chelsea",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379122,
+      "date": "2025-12-13T15:00:00+00:00",
+      "home": "Chelsea",
+      "away": "Everton",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379110,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Bournemouth",
+      "away": "Chelsea",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379104,
+      "date": "2025-12-03T20:15:00+00:00",
+      "home": "Leeds",
+      "away": "Chelsea",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379091,
+      "date": "2025-11-30T16:30:00+00:00",
+      "home": "Chelsea",
+      "away": "Arsenal",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379082,
+      "date": "2025-11-22T12:30:00+00:00",
+      "home": "Burnley",
+      "away": "Chelsea",
+      "player_id": 366735,
+      "player_name": "Joshua Kofi Acheampong",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    }
+  ]
+}

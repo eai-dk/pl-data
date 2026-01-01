@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:11:37.789053Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 342970,
+    "player_name": "L. Yoro",
+    "team": 33,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379155,
+      "date": "2025-12-30T20:15:00+00:00",
+      "home": "Manchester United",
+      "away": "Wolves",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 15,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7"
+    },
+    {
+      "fixture_id": 1379145,
+      "date": "2025-12-26T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Newcastle",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 29,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379129,
+      "date": "2025-12-21T16:30:00+00:00",
+      "home": "Aston Villa",
+      "away": "Manchester United",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 84,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7"
+    },
+    {
+      "fixture_id": 1379125,
+      "date": "2025-12-15T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Bournemouth",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 69,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6"
+    },
+    {
+      "fixture_id": 1379118,
+      "date": "2025-12-08T20:00:00+00:00",
+      "home": "Wolves",
+      "away": "Manchester United",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 21,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7.2"
+    },
+    {
+      "fixture_id": 1379106,
+      "date": "2025-12-04T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "West Ham",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 45,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379092,
+      "date": "2025-11-30T12:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Manchester United",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 54,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "5.6"
+    },
+    {
+      "fixture_id": 1379086,
+      "date": "2025-11-24T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Everton",
+      "player_id": 342970,
+      "player_name": "L. Yoro",
+      "minutes": 90,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "7.3"
+    }
+  ]
+}

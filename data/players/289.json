@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T12:13:04.472438Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 289,
+    "player_name": "A. Robertson",
+    "team": 40,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379144,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Wolves",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379137,
+      "date": "2025-12-20T17:30:00+00:00",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 1,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379124,
+      "date": "2025-12-13T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Brighton",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 12,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379114,
+      "date": "2025-12-06T17:30:00+00:00",
+      "home": "Leeds",
+      "away": "Liverpool",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379105,
+      "date": "2025-12-03T20:15:00+00:00",
+      "home": "Liverpool",
+      "away": "Sunderland",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 86,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379098,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "West Ham",
+      "away": "Liverpool",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 11,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379085,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 22,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379074,
+      "date": "2025-11-09T16:30:00+00:00",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "player_id": 289,
+      "player_name": "A. Robertson",
+      "minutes": 56,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "D",
+      "rating": "6.2"
+    }
+  ]
+}
