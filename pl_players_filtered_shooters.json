@@ -1,0 +1,3699 @@
+{
+  "generated_at_utc": "2026-01-01T11:11:32.782774+00:00",
+  "league": 39,
+  "season": 2025,
+  "filter": "minutes > 0 AND shots_total > 0",
+  "count": 369,
+  "players": [
+    {
+      "id": 1100,
+      "name": "E. Haaland",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Attacker",
+      "minutes": 1556,
+      "shots_total": 62,
+      "shots_on_target": 37
+    },
+    {
+      "id": 25927,
+      "name": "J. Mateta",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Attacker",
+      "minutes": 1472,
+      "shots_total": 43,
+      "shots_on_target": 23
+    },
+    {
+      "id": 19281,
+      "name": "A. Semenyo",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 1624,
+      "shots_total": 40,
+      "shots_on_target": 26
+    },
+    {
+      "id": 20589,
+      "name": "B. Mbeumo",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 1404,
+      "shots_total": 36,
+      "shots_on_target": 24
+    },
+    {
+      "id": 1165,
+      "name": "Matheus Cunha",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 1212,
+      "shots_total": 33,
+      "shots_on_target": 19
+    },
+    {
+      "id": 18766,
+      "name": "D. Calvert-Lewin",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 1117,
+      "shots_total": 32,
+      "shots_on_target": 17
+    },
+    {
+      "id": 196156,
+      "name": "Thiago",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Attacker",
+      "minutes": 1493,
+      "shots_total": 31,
+      "shots_on_target": 21
+    },
+    {
+      "id": 19428,
+      "name": "J. Bowen",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 1710,
+      "shots_total": 31,
+      "shots_on_target": 20
+    },
+    {
+      "id": 5996,
+      "name": "E. Fernández",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 1553,
+      "shots_total": 29,
+      "shots_on_target": 16
+    },
+    {
+      "id": 1485,
+      "name": "Bruno Fernandes",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 1477,
+      "shots_total": 29,
+      "shots_on_target": 13
+    },
+    {
+      "id": 1460,
+      "name": "B. Saka",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 1325,
+      "shots_total": 29,
+      "shots_on_target": 18
+    },
+    {
+      "id": 152856,
+      "name": "Evanilson",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Attacker",
+      "minutes": 1277,
+      "shots_total": 27,
+      "shots_on_target": 10
+    },
+    {
+      "id": 18746,
+      "name": "M. Gibbs-White",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 1614,
+      "shots_total": 27,
+      "shots_on_target": 11
+    },
+    {
+      "id": 247,
+      "name": "C. Gakpo",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1149,
+      "shots_total": 26,
+      "shots_on_target": 7
+    },
+    {
+      "id": 174565,
+      "name": "H. Ekitike",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Attacker",
+      "minutes": 1047,
+      "shots_total": 26,
+      "shots_on_target": 10
+    },
+    {
+      "id": 265820,
+      "name": "Y. Ayari",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 1348,
+      "shots_total": 26,
+      "shots_on_target": 8
+    },
+    {
+      "id": 18870,
+      "name": "D. Brooks",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 858,
+      "shots_total": 25,
+      "shots_on_target": 12
+    },
+    {
+      "id": 19170,
+      "name": "M. Rogers",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 1690,
+      "shots_total": 25,
+      "shots_on_target": 15
+    },
+    {
+      "id": 19366,
+      "name": "O. Watkins",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Attacker",
+      "minutes": 1407,
+      "shots_total": 25,
+      "shots_on_target": 15
+    },
+    {
+      "id": 1469,
+      "name": "D. Welbeck",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Attacker",
+      "minutes": 1086,
+      "shots_total": 24,
+      "shots_on_target": 12
+    },
+    {
+      "id": 178077,
+      "name": "K. Schade",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 1417,
+      "shots_total": 24,
+      "shots_on_target": 16
+    },
+    {
+      "id": 10329,
+      "name": "João Pedro",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Attacker",
+      "minutes": 1459,
+      "shots_total": 24,
+      "shots_on_target": 14
+    },
+    {
+      "id": 115589,
+      "name": "B. Šeško",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 861,
+      "shots_total": 24,
+      "shots_on_target": 12
+    },
+    {
+      "id": 18979,
+      "name": "V. Gyökeres",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 1173,
+      "shots_total": 24,
+      "shots_on_target": 11
+    },
+    {
+      "id": 631,
+      "name": "P. Foden",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1317,
+      "shots_total": 24,
+      "shots_on_target": 13
+    },
+    {
+      "id": 306,
+      "name": "Mohamed Salah",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1183,
+      "shots_total": 23,
+      "shots_on_target": 11
+    },
+    {
+      "id": 19245,
+      "name": "M. Tavernier",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 1522,
+      "shots_total": 23,
+      "shots_on_target": 11
+    },
+    {
+      "id": 2887,
+      "name": "R. Jiménez",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Attacker",
+      "minutes": 1058,
+      "shots_total": 23,
+      "shots_on_target": 9
+    },
+    {
+      "id": 36902,
+      "name": "T. Reijnders",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1177,
+      "shots_total": 23,
+      "shots_on_target": 11
+    },
+    {
+      "id": 10135,
+      "name": "Bruno Guimarães",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 1576,
+      "shots_total": 22,
+      "shots_on_target": 13
+    },
+    {
+      "id": 19163,
+      "name": "J. Murphy",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 924,
+      "shots_total": 22,
+      "shots_on_target": 10
+    },
+    {
+      "id": 19221,
+      "name": "H. Wilson",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 1250,
+      "shots_total": 22,
+      "shots_on_target": 11
+    },
+    {
+      "id": 84087,
+      "name": "W. Isidor",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 947,
+      "shots_total": 22,
+      "shots_on_target": 12
+    },
+    {
+      "id": 1096,
+      "name": "D. Szoboszlai",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1523,
+      "shots_total": 21,
+      "shots_on_target": 11
+    },
+    {
+      "id": 1946,
+      "name": "L. Trossard",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 1058,
+      "shots_total": 21,
+      "shots_on_target": 10
+    },
+    {
+      "id": 895,
+      "name": "J. Garner",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 1710,
+      "shots_total": 21,
+      "shots_on_target": 7
+    },
+    {
+      "id": 249,
+      "name": "D. Malen",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Attacker",
+      "minutes": 657,
+      "shots_total": 20,
+      "shots_on_target": 9
+    },
+    {
+      "id": 158054,
+      "name": "N. Woltemade",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 1187,
+      "shots_total": 20,
+      "shots_on_target": 11
+    },
+    {
+      "id": 90590,
+      "name": "G. Rutter",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Attacker",
+      "minutes": 1199,
+      "shots_total": 19,
+      "shots_on_target": 10
+    },
+    {
+      "id": 383685,
+      "name": "Y. Minteh",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 1549,
+      "shots_total": 19,
+      "shots_on_target": 7
+    },
+    {
+      "id": 9366,
+      "name": "Igor Jesus",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Attacker",
+      "minutes": 984,
+      "shots_total": 19,
+      "shots_on_target": 7
+    },
+    {
+      "id": 2413,
+      "name": "Richarlison",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 1075,
+      "shots_total": 19,
+      "shots_on_target": 11
+    },
+    {
+      "id": 138787,
+      "name": "A. Gordon",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 866,
+      "shots_total": 18,
+      "shots_on_target": 9
+    },
+    {
+      "id": 278370,
+      "name": "D. Gómez",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 1124,
+      "shots_total": 18,
+      "shots_on_target": 11
+    },
+    {
+      "id": 1864,
+      "name": "Pedro Neto",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 1472,
+      "shots_total": 18,
+      "shots_on_target": 11
+    },
+    {
+      "id": 2937,
+      "name": "D. Rice",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 1519,
+      "shots_total": 18,
+      "shots_on_target": 8
+    },
+    {
+      "id": 38746,
+      "name": "J. Timber",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 1462,
+      "shots_total": 18,
+      "shots_on_target": 5
+    },
+    {
+      "id": 177665,
+      "name": "A. Stach",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Midfielder",
+      "minutes": 1273,
+      "shots_total": 18,
+      "shots_on_target": 8
+    },
+    {
+      "id": 284324,
+      "name": "A. Garnacho",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Attacker",
+      "minutes": 765,
+      "shots_total": 18,
+      "shots_on_target": 5
+    },
+    {
+      "id": 18778,
+      "name": "H. Barnes",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 832,
+      "shots_total": 17,
+      "shots_on_target": 10
+    },
+    {
+      "id": 1646,
+      "name": "Lucas Paquetá",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 1458,
+      "shots_total": 17,
+      "shots_on_target": 11
+    },
+    {
+      "id": 157997,
+      "name": "A. Diallo",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 1205,
+      "shots_total": 17,
+      "shots_on_target": 9
+    },
+    {
+      "id": 284797,
+      "name": "D. Ouattara",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 1065,
+      "shots_total": 17,
+      "shots_on_target": 7
+    },
+    {
+      "id": 18931,
+      "name": "C. Wood",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Attacker",
+      "minutes": 544,
+      "shots_total": 16,
+      "shots_on_target": 6
+    },
+    {
+      "id": 2939,
+      "name": "C. Wilson",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 720,
+      "shots_total": 16,
+      "shots_on_target": 9
+    },
+    {
+      "id": 747,
+      "name": "Casemiro",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 1153,
+      "shots_total": 16,
+      "shots_on_target": 6
+    },
+    {
+      "id": 18592,
+      "name": "I. Ndiaye",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 1348,
+      "shots_total": 16,
+      "shots_on_target": 12
+    },
+    {
+      "id": 55904,
+      "name": "D. Ballard",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 1120,
+      "shots_total": 15,
+      "shots_on_target": 7
+    },
+    {
+      "id": 157052,
+      "name": "R. Calafiori",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 1263,
+      "shots_total": 15,
+      "shots_on_target": 5
+    },
+    {
+      "id": 50739,
+      "name": "B. Aaronson",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Midfielder",
+      "minutes": 1012,
+      "shots_total": 15,
+      "shots_on_target": 9
+    },
+    {
+      "id": 304853,
+      "name": "A. Scott",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 1261,
+      "shots_total": 14,
+      "shots_on_target": 5
+    },
+    {
+      "id": 15911,
+      "name": "M. Kudus",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 1436,
+      "shots_total": 14,
+      "shots_on_target": 8
+    },
+    {
+      "id": 36927,
+      "name": "Z. Flemming",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 698,
+      "shots_total": 14,
+      "shots_on_target": 9
+    },
+    {
+      "id": 343684,
+      "name": "T. Barry",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Attacker",
+      "minutes": 940,
+      "shots_total": 14,
+      "shots_on_target": 4
+    },
+    {
+      "id": 6716,
+      "name": "A. Mac Allister",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1190,
+      "shots_total": 13,
+      "shots_on_target": 6
+    },
+    {
+      "id": 368030,
+      "name": "E. Kroupi",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Attacker",
+      "minutes": 501,
+      "shots_total": 13,
+      "shots_on_target": 9
+    },
+    {
+      "id": 2298,
+      "name": "C. Hudson-Odoi",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 1033,
+      "shots_total": 13,
+      "shots_on_target": 6
+    },
+    {
+      "id": 138780,
+      "name": "N. Williams",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 1716,
+      "shots_total": 13,
+      "shots_on_target": 10
+    },
+    {
+      "id": 2032,
+      "name": "J. Strand Larsen",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 1262,
+      "shots_total": 13,
+      "shots_on_target": 7
+    },
+    {
+      "id": 2218,
+      "name": "I. Sarr",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Attacker",
+      "minutes": 1012,
+      "shots_total": 13,
+      "shots_on_target": 6
+    },
+    {
+      "id": 37127,
+      "name": "M. Ødegaard",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 727,
+      "shots_total": 13,
+      "shots_on_target": 7
+    },
+    {
+      "id": 70100,
+      "name": "J. Zirkzee",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 464,
+      "shots_total": 13,
+      "shots_on_target": 6
+    },
+    {
+      "id": 125743,
+      "name": "Beto",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Attacker",
+      "minutes": 795,
+      "shots_total": 13,
+      "shots_on_target": 5
+    },
+    {
+      "id": 2864,
+      "name": "A. Isak",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Attacker",
+      "minutes": 519,
+      "shots_total": 13,
+      "shots_on_target": 4
+    },
+    {
+      "id": 203224,
+      "name": "F. Wirtz",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1182,
+      "shots_total": 12,
+      "shots_on_target": 7
+    },
+    {
+      "id": 19071,
+      "name": "E. Buendía",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 693,
+      "shots_total": 12,
+      "shots_on_target": 4
+    },
+    {
+      "id": 19298,
+      "name": "M. Cash",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 1595,
+      "shots_total": 12,
+      "shots_on_target": 7
+    },
+    {
+      "id": 196855,
+      "name": "J. Anthony",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 1158,
+      "shots_total": 12,
+      "shots_on_target": 9
+    },
+    {
+      "id": 3080,
+      "name": "M. Munetsi",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 877,
+      "shots_total": 12,
+      "shots_on_target": 6
+    },
+    {
+      "id": 13736,
+      "name": "D. Muñoz",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 1259,
+      "shots_total": 12,
+      "shots_on_target": 8
+    },
+    {
+      "id": 19220,
+      "name": "M. Mount",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 789,
+      "shots_total": 12,
+      "shots_on_target": 5
+    },
+    {
+      "id": 19461,
+      "name": "L. Nmecha",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 516,
+      "shots_total": 12,
+      "shots_on_target": 8
+    },
+    {
+      "id": 64003,
+      "name": "P. Struijk",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Defender",
+      "minutes": 1358,
+      "shots_total": 12,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19187,
+      "name": "J. Grealish",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 1367,
+      "shots_total": 12,
+      "shots_on_target": 8
+    },
+    {
+      "id": 37724,
+      "name": "C. Summerville",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 967,
+      "shots_total": 12,
+      "shots_on_target": 5
+    },
+    {
+      "id": 110153,
+      "name": "T. Arokodare",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 516,
+      "shots_total": 12,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19191,
+      "name": "J.  McGinn",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 1442,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 2806,
+      "name": "F. Schär",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 932,
+      "shots_total": 11,
+      "shots_on_target": 3
+    },
+    {
+      "id": 328225,
+      "name": "B. Gruda",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 574,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 1161,
+      "name": "E. Smith Rowe",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 678,
+      "shots_total": 11,
+      "shots_on_target": 6
+    },
+    {
+      "id": 1455,
+      "name": "A. Iwobi",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 1339,
+      "shots_total": 11,
+      "shots_on_target": 7
+    },
+    {
+      "id": 389315,
+      "name": "Joshua King",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 874,
+      "shots_total": 11,
+      "shots_on_target": 6
+    },
+    {
+      "id": 1422,
+      "name": "J. Doku",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Attacker",
+      "minutes": 942,
+      "shots_total": 11,
+      "shots_on_target": 8
+    },
+    {
+      "id": 307123,
+      "name": "N. O&apos;Reilly",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1315,
+      "shots_total": 11,
+      "shots_on_target": 4
+    },
+    {
+      "id": 19720,
+      "name": "T. Chalobah",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 1567,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 152982,
+      "name": "C. Palmer",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 504,
+      "shots_total": 11,
+      "shots_on_target": 6
+    },
+    {
+      "id": 47315,
+      "name": "Martín Zubimendi",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 1602,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 32966,
+      "name": "A. Tanaka",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Midfielder",
+      "minutes": 708,
+      "shots_total": 11,
+      "shots_on_target": 3
+    },
+    {
+      "id": 148099,
+      "name": "K. Dewsbury-Hall",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 1262,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 195993,
+      "name": "C. Alcaraz",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 686,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 48389,
+      "name": "N. Okafor",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 935,
+      "shots_total": 11,
+      "shots_on_target": 5
+    },
+    {
+      "id": 542,
+      "name": "R. Gravenberch",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 1412,
+      "shots_total": 11,
+      "shots_on_target": 7
+    },
+    {
+      "id": 284428,
+      "name": "O. Hutchinson",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Attacker",
+      "minutes": 759,
+      "shots_total": 11,
+      "shots_on_target": 6
+    },
+    {
+      "id": 184226,
+      "name": "Yeremy Pino",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 1100,
+      "shots_total": 11,
+      "shots_on_target": 6
+    },
+    {
+      "id": 723,
+      "name": "Joelinton",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 1053,
+      "shots_total": 10,
+      "shots_on_target": 6
+    },
+    {
+      "id": 2817,
+      "name": "N. Milenković",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 1716,
+      "shots_total": 10,
+      "shots_on_target": 1
+    },
+    {
+      "id": 138908,
+      "name": "E. Anderson",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 1716,
+      "shots_total": 10,
+      "shots_on_target": 5
+    },
+    {
+      "id": 270508,
+      "name": "L. Ugochukwu",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 1147,
+      "shots_total": 10,
+      "shots_on_target": 6
+    },
+    {
+      "id": 20665,
+      "name": "J. Bellegarde",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 691,
+      "shots_total": 10,
+      "shots_on_target": 4
+    },
+    {
+      "id": 282770,
+      "name": "Rodrigo Gomes",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 332,
+      "shots_total": 10,
+      "shots_on_target": 3
+    },
+    {
+      "id": 156477,
+      "name": "R. Cherki",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 652,
+      "shots_total": 10,
+      "shots_on_target": 6
+    },
+    {
+      "id": 425733,
+      "name": "Estêvão",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Attacker",
+      "minutes": 569,
+      "shots_total": 10,
+      "shots_on_target": 5
+    },
+    {
+      "id": 886,
+      "name": "Diogo Dalot",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 1230,
+      "shots_total": 10,
+      "shots_on_target": 3
+    },
+    {
+      "id": 382452,
+      "name": "P. Dorgu",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 998,
+      "shots_total": 10,
+      "shots_on_target": 4
+    },
+    {
+      "id": 47311,
+      "name": "Mikel Merino",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 932,
+      "shots_total": 10,
+      "shots_on_target": 5
+    },
+    {
+      "id": 127769,
+      "name": "Gabriel Martinelli",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 419,
+      "shots_total": 10,
+      "shots_on_target": 4
+    },
+    {
+      "id": 66407,
+      "name": "L. Krejčí",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 1235,
+      "shots_total": 10,
+      "shots_on_target": 7
+    },
+    {
+      "id": 162016,
+      "name": "X. Simons",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 838,
+      "shots_total": 10,
+      "shots_on_target": 4
+    },
+    {
+      "id": 2926,
+      "name": "Y. Tielemans",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 955,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 31146,
+      "name": "S. Tonali",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 1332,
+      "shots_total": 9,
+      "shots_on_target": 5
+    },
+    {
+      "id": 163189,
+      "name": "M. Thiaw",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 1360,
+      "shots_total": 9,
+      "shots_on_target": 5
+    },
+    {
+      "id": 106725,
+      "name": "K. Lewis-Potter",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 749,
+      "shots_total": 9,
+      "shots_on_target": 5
+    },
+    {
+      "id": 6168,
+      "name": "O. Alderete",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 1207,
+      "shots_total": 9,
+      "shots_on_target": 6
+    },
+    {
+      "id": 20638,
+      "name": "E. Le Fée",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Midfielder",
+      "minutes": 1310,
+      "shots_total": 9,
+      "shots_on_target": 2
+    },
+    {
+      "id": 336659,
+      "name": "C. Talbi",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 885,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 409303,
+      "name": "E. Diouf",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 1388,
+      "shots_total": 9,
+      "shots_on_target": 2
+    },
+    {
+      "id": 41104,
+      "name": "João Palhinha",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Midfielder",
+      "minutes": 1114,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 336564,
+      "name": "W. Odobert",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 550,
+      "shots_total": 9,
+      "shots_on_target": 3
+    },
+    {
+      "id": 161621,
+      "name": "L. Tchaouna",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Attacker",
+      "minutes": 735,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 13708,
+      "name": "J. Arias",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Midfielder",
+      "minutes": 912,
+      "shots_total": 9,
+      "shots_on_target": 2
+    },
+    {
+      "id": 24888,
+      "name": "Hwang Hee-Chan",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 736,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 19545,
+      "name": "R. James",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 1252,
+      "shots_total": 9,
+      "shots_on_target": 6
+    },
+    {
+      "id": 161948,
+      "name": "L. Delap",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Attacker",
+      "minutes": 460,
+      "shots_total": 9,
+      "shots_on_target": 5
+    },
+    {
+      "id": 286458,
+      "name": "J. Devenny",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 339,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 288102,
+      "name": "A. Wharton",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 1303,
+      "shots_total": 9,
+      "shots_on_target": 3
+    },
+    {
+      "id": 2279,
+      "name": "E. Ampadu",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Midfielder",
+      "minutes": 1413,
+      "shots_total": 9,
+      "shots_on_target": 3
+    },
+    {
+      "id": 18901,
+      "name": "S. Longstaff",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Midfielder",
+      "minutes": 880,
+      "shots_total": 9,
+      "shots_on_target": 2
+    },
+    {
+      "id": 19321,
+      "name": "J. Rodon",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Defender",
+      "minutes": 1561,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 2990,
+      "name": "I. Gueye",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 1055,
+      "shots_total": 9,
+      "shots_on_target": 3
+    },
+    {
+      "id": 792,
+      "name": "J. Kluivert",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Attacker",
+      "minutes": 849,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 15908,
+      "name": "M. Damsgaard",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 1050,
+      "shots_total": 9,
+      "shots_on_target": 5
+    },
+    {
+      "id": 2601,
+      "name": "D. Kamada",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Attacker",
+      "minutes": 1173,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 671,
+      "name": "B. Traoré",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 616,
+      "shots_total": 9,
+      "shots_on_target": 6
+    },
+    {
+      "id": 129033,
+      "name": "J. Gvardiol",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Defender",
+      "minutes": 1220,
+      "shots_total": 9,
+      "shots_on_target": 4
+    },
+    {
+      "id": 237819,
+      "name": "Kevin",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Attacker",
+      "minutes": 566,
+      "shots_total": 9,
+      "shots_on_target": 6
+    },
+    {
+      "id": 1468,
+      "name": "E. Nketiah",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Attacker",
+      "minutes": 416,
+      "shots_total": 9,
+      "shots_on_target": 6
+    },
+    {
+      "id": 1696,
+      "name": "S. Chukwueze",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Attacker",
+      "minutes": 395,
+      "shots_total": 9,
+      "shots_on_target": 3
+    },
+    {
+      "id": 290,
+      "name": "V. van Dijk",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 1620,
+      "shots_total": 8,
+      "shots_on_target": 4
+    },
+    {
+      "id": 293,
+      "name": "C. Jones",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Midfielder",
+      "minutes": 816,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 195106,
+      "name": "Rodrigo Muniz",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Attacker",
+      "minutes": 353,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 22149,
+      "name": "I. Sangaré",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 870,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19495,
+      "name": "N. Collins",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 1546,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 1243,
+      "name": "T. Souček",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 603,
+      "shots_total": 8,
+      "shots_on_target": 7
+    },
+    {
+      "id": 152849,
+      "name": "M. van de Ven",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 1520,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 22,
+      "name": "J. Bruun Larsen",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Attacker",
+      "minutes": 814,
+      "shots_total": 8,
+      "shots_on_target": 4
+    },
+    {
+      "id": 47380,
+      "name": "Marc Cucurella",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 1507,
+      "shots_total": 8,
+      "shots_on_target": 2
+    },
+    {
+      "id": 532,
+      "name": "M. de Ligt",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Defender",
+      "minutes": 1170,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 2934,
+      "name": "M. Keane",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 1505,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 266657,
+      "name": "Sávio",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Attacker",
+      "minutes": 501,
+      "shots_total": 8,
+      "shots_on_target": 6
+    },
+    {
+      "id": 392482,
+      "name": "C. Kostoulas",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Attacker",
+      "minutes": 116,
+      "shots_total": 8,
+      "shots_on_target": 3
+    },
+    {
+      "id": 30410,
+      "name": "F. Chiesa",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Attacker",
+      "minutes": 245,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 1150,
+      "name": "T. Adams",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 1202,
+      "shots_total": 7,
+      "shots_on_target": 6
+    },
+    {
+      "id": 1361,
+      "name": "F. Kadıoğlu",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 1426,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 18963,
+      "name": "L. Dunk",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 1575,
+      "shots_total": 7,
+      "shots_on_target": 0
+    },
+    {
+      "id": 38695,
+      "name": "J. van Hecke",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 1620,
+      "shots_total": 7,
+      "shots_on_target": 7
+    },
+    {
+      "id": 92993,
+      "name": "M. Wieffer",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 1188,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 106835,
+      "name": "K. Mitoma",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 594,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 356041,
+      "name": "C. Baleba",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 911,
+      "shots_total": 7,
+      "shots_on_target": 0
+    },
+    {
+      "id": 2823,
+      "name": "S. Lukić",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 950,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 36922,
+      "name": "S. van den Berg",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 1530,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 263538,
+      "name": "Y. Yarmolyuk",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 1323,
+      "shots_total": 7,
+      "shots_on_target": 3
+    },
+    {
+      "id": 1464,
+      "name": "G. Xhaka",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Midfielder",
+      "minutes": 1603,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 25391,
+      "name": "N. Füllkrug",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 408,
+      "shots_total": 7,
+      "shots_on_target": 3
+    },
+    {
+      "id": 30776,
+      "name": "C. Romero",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 1189,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 347316,
+      "name": "L. Bergvall",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Midfielder",
+      "minutes": 738,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 19827,
+      "name": "J. Cullen",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 1519,
+      "shots_total": 7,
+      "shots_on_target": 6
+    },
+    {
+      "id": 20303,
+      "name": "J. Laurent",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 890,
+      "shots_total": 7,
+      "shots_on_target": 3
+    },
+    {
+      "id": 98936,
+      "name": "L. Foster",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Attacker",
+      "minutes": 874,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 161907,
+      "name": "M. Gusto",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 1061,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 67971,
+      "name": "M. Guéhi",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Defender",
+      "minutes": 1530,
+      "shots_total": 7,
+      "shots_on_target": 3
+    },
+    {
+      "id": 22224,
+      "name": "Gabriel Magalhães",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 1086,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 19201,
+      "name": "J. Bogle",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Defender",
+      "minutes": 1578,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 47969,
+      "name": "G. Gudmundsson",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Defender",
+      "minutes": 1474,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 129682,
+      "name": "A. Adli",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Attacker",
+      "minutes": 418,
+      "shots_total": 7,
+      "shots_on_target": 5
+    },
+    {
+      "id": 38750,
+      "name": "B. Brobbey",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 478,
+      "shots_total": 7,
+      "shots_on_target": 4
+    },
+    {
+      "id": 138822,
+      "name": "A. Broja",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Attacker",
+      "minutes": 504,
+      "shots_total": 7,
+      "shots_on_target": 6
+    },
+    {
+      "id": 21104,
+      "name": "R. Kolo Muani",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 679,
+      "shots_total": 7,
+      "shots_on_target": 2
+    },
+    {
+      "id": 206254,
+      "name": "M. Kerkez",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 1224,
+      "shots_total": 6,
+      "shots_on_target": 1
+    },
+    {
+      "id": 6610,
+      "name": "M. Senesi",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 1585,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 153430,
+      "name": "A. Elanga",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 688,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 162007,
+      "name": "M. De Cuyper",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 895,
+      "shots_total": 6,
+      "shots_on_target": 5
+    },
+    {
+      "id": 657,
+      "name": "K. Tete",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 1296,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 2729,
+      "name": "J. Andersen",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 1482,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 48648,
+      "name": "D. Ndoye",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 1006,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 1119,
+      "name": "K. Ajer",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 713,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 119121,
+      "name": "T. Hume",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 1473,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 327631,
+      "name": "H. Diarra",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Midfielder",
+      "minutes": 373,
+      "shots_total": 6,
+      "shots_on_target": 1
+    },
+    {
+      "id": 1445,
+      "name": "K. Mavropanos",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Defender",
+      "minutes": 907,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 863,
+      "name": "R. Bentancur",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Midfielder",
+      "minutes": 1149,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 37882,
+      "name": "M. Edwards",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Attacker",
+      "minutes": 285,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 179400,
+      "name": "M. Estève",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 1447,
+      "shots_total": 6,
+      "shots_on_target": 1
+    },
+    {
+      "id": 135068,
+      "name": "E. Agbadou",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 1011,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 195103,
+      "name": "João Gomes",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Midfielder",
+      "minutes": 1461,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 81573,
+      "name": "Omar Marmoush",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Attacker",
+      "minutes": 233,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 305834,
+      "name": "Andrey Santos",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 459,
+      "shots_total": 6,
+      "shots_on_target": 1
+    },
+    {
+      "id": 20995,
+      "name": "M. Lacroix",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Defender",
+      "minutes": 1620,
+      "shots_total": 6,
+      "shots_on_target": 1
+    },
+    {
+      "id": 136723,
+      "name": "N. Madueke",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 439,
+      "shots_total": 6,
+      "shots_on_target": 3
+    },
+    {
+      "id": 1146,
+      "name": "N. Mukiele",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 1440,
+      "shots_total": 6,
+      "shots_on_target": 2
+    },
+    {
+      "id": 456206,
+      "name": "M. Mane",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 280,
+      "shots_total": 6,
+      "shots_on_target": 4
+    },
+    {
+      "id": 1145,
+      "name": "I. Konaté",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 1521,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 162267,
+      "name": "A. Truffert",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 1675,
+      "shots_total": 5,
+      "shots_on_target": 1
+    },
+    {
+      "id": 2724,
+      "name": "L. Digne",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 1127,
+      "shots_total": 5,
+      "shots_on_target": 4
+    },
+    {
+      "id": 138816,
+      "name": "I. Maatsen",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 615,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 328105,
+      "name": "L. Miley",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 848,
+      "shots_total": 5,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19025,
+      "name": "T. Cairney",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 263,
+      "shots_total": 5,
+      "shots_on_target": 0
+    },
+    {
+      "id": 8598,
+      "name": "T. Awoniyi",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Attacker",
+      "minutes": 194,
+      "shots_total": 5,
+      "shots_on_target": 3
+    },
+    {
+      "id": 47519,
+      "name": "Pedro Porro",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 1419,
+      "shots_total": 5,
+      "shots_on_target": 1
+    },
+    {
+      "id": 129711,
+      "name": "B. Johnson",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 628,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 237129,
+      "name": "P. Sarr",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Midfielder",
+      "minutes": 713,
+      "shots_total": 5,
+      "shots_on_target": 4
+    },
+    {
+      "id": 270510,
+      "name": "M. Tel",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 293,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 375915,
+      "name": "Q. Hartman",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 1339,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 116117,
+      "name": "M. Caicedo",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 1258,
+      "shots_total": 5,
+      "shots_on_target": 4
+    },
+    {
+      "id": 2490,
+      "name": "J. Lerma",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 632,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 182201,
+      "name": "T. Mitchell",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 1614,
+      "shots_total": 5,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19128,
+      "name": "J. Harrison",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 263,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 19329,
+      "name": "D. James",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 357,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 2936,
+      "name": "J. Tarkowski",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 1716,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 1125,
+      "name": "R. Christie",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 288,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 19032,
+      "name": "R. Sessegnon",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 1109,
+      "shots_total": 5,
+      "shots_on_target": 3
+    },
+    {
+      "id": 336585,
+      "name": "Mateus Fernandes",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 1331,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 575,
+      "name": "Florentino",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 1138,
+      "shots_total": 5,
+      "shots_on_target": 1
+    },
+    {
+      "id": 20649,
+      "name": "Y. Wissa",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 150,
+      "shots_total": 5,
+      "shots_on_target": 2
+    },
+    {
+      "id": 1904,
+      "name": "B. Kamara",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 1246,
+      "shots_total": 4,
+      "shots_on_target": 4
+    },
+    {
+      "id": 137303,
+      "name": "E. Guessand",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Attacker",
+      "minutes": 525,
+      "shots_total": 4,
+      "shots_on_target": 4
+    },
+    {
+      "id": 162714,
+      "name": "A. Onana",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 904,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 284492,
+      "name": "L. Hall",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 796,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 315237,
+      "name": "W. Osula",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Attacker",
+      "minutes": 236,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 19030,
+      "name": "M. O&apos;Riley",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 178,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 363695,
+      "name": "Murillo",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 1107,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 292,
+      "name": "J. Henderson",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 1232,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 47438,
+      "name": "M. Jensen",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 648,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 171,
+      "name": "K. Walker-Peters",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Defender",
+      "minutes": 782,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 18744,
+      "name": "M. Kilman",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Defender",
+      "minutes": 1449,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 19235,
+      "name": "D. Spence",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 1168,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 47903,
+      "name": "H. Ekdal",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 1080,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 330238,
+      "name": "Lucas Pires",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 329,
+      "shots_total": 4,
+      "shots_on_target": 0
+    },
+    {
+      "id": 195717,
+      "name": "Y. Mosquera",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 691,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 280687,
+      "name": "Hugo Bueno",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 987,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 567,
+      "name": "Rúben Dias",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Defender",
+      "minutes": 1544,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 41621,
+      "name": "Matheus Nunes",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1324,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 286894,
+      "name": "J. Bynoe-Gittens",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Midfielder",
+      "minutes": 455,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 2935,
+      "name": "H. Maguire",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Defender",
+      "minutes": 356,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 313236,
+      "name": "E. Nwaneri",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 175,
+      "shots_total": 4,
+      "shots_on_target": 0
+    },
+    {
+      "id": 250,
+      "name": "J. Piroe",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 230,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 270139,
+      "name": "J. O&apos;Brien",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 1593,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 833,
+      "name": "J. Bijol",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Defender",
+      "minutes": 715,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 305730,
+      "name": "J. Hinshelwood",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 505,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 181806,
+      "name": "N. Savona",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 1005,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 25073,
+      "name": "V. Janelt",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 502,
+      "shots_total": 4,
+      "shots_on_target": 1
+    },
+    {
+      "id": 129695,
+      "name": "D. Bakwa",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Attacker",
+      "minutes": 196,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 202854,
+      "name": "M. Röhl",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 223,
+      "shots_total": 4,
+      "shots_on_target": 0
+    },
+    {
+      "id": 18,
+      "name": "J. Sancho",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Attacker",
+      "minutes": 229,
+      "shots_total": 4,
+      "shots_on_target": 3
+    },
+    {
+      "id": 2287,
+      "name": "R. Barkley",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Midfielder",
+      "minutes": 128,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 47499,
+      "name": "E. Ünal",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Attacker",
+      "minutes": 80,
+      "shots_total": 4,
+      "shots_on_target": 2
+    },
+    {
+      "id": 20093,
+      "name": "J. Hill",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 415,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 1934,
+      "name": "S. Berge",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Midfielder",
+      "minutes": 1552,
+      "shots_total": 3,
+      "shots_on_target": 3
+    },
+    {
+      "id": 18753,
+      "name": "Adama Traoré",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Attacker",
+      "minutes": 289,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 152967,
+      "name": "C. Bassey",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 1358,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 44871,
+      "name": "A. Hickey",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 440,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 342022,
+      "name": "M. Kayode",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 1571,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 339201,
+      "name": "C. Rigg",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Midfielder",
+      "minutes": 321,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 349799,
+      "name": "Eliezer Mayenda",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 295,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 327730,
+      "name": "O. Scarles",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Defender",
+      "minutes": 314,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 328089,
+      "name": "A. Gray",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Midfielder",
+      "minutes": 450,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 180560,
+      "name": "H. Mejbri",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Midfielder",
+      "minutes": 407,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 135334,
+      "name": "S. Bueno",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 844,
+      "shots_total": 3,
+      "shots_on_target": 3
+    },
+    {
+      "id": 636,
+      "name": "Bernardo Silva",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1240,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 161933,
+      "name": "Nico González",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 1227,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 18806,
+      "name": "W. Hughes",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 643,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 19586,
+      "name": "E. Eze",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Attacker",
+      "minutes": 84,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 334037,
+      "name": "Tyrique George",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Attacker",
+      "minutes": 151,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 51494,
+      "name": "M. Ugarte",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 559,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 19959,
+      "name": "B. White",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 298,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 162128,
+      "name": "W. Gnonto",
+      "team_name": "Leeds",
+      "team_id": 63,
+      "position": "Attacker",
+      "minutes": 320,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 18929,
+      "name": "D. McNeil",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Attacker",
+      "minutes": 366,
+      "shots_total": 3,
+      "shots_on_target": 0
+    },
+    {
+      "id": 44,
+      "name": "Rodri",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Midfielder",
+      "minutes": 294,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 47522,
+      "name": "Douglas Luiz",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 323,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 329369,
+      "name": "T. Watson",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Attacker",
+      "minutes": 164,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 330437,
+      "name": "Álex Jiménez",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 992,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 343311,
+      "name": "S. Tzimas",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Attacker",
+      "minutes": 164,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 403554,
+      "name": "Christantus Uche",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Midfielder",
+      "minutes": 101,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 326176,
+      "name": "S. Magassa",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 693,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 6056,
+      "name": "N. Domínguez",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 399,
+      "shots_total": 3,
+      "shots_on_target": 1
+    },
+    {
+      "id": 643,
+      "name": "Gabriel Jesus",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Attacker",
+      "minutes": 75,
+      "shots_total": 3,
+      "shots_on_target": 2
+    },
+    {
+      "id": 284,
+      "name": "J. Gomez",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 262,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 19354,
+      "name": "E. Konsa",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 1605,
+      "shots_total": 2,
+      "shots_on_target": 2
+    },
+    {
+      "id": 46815,
+      "name": "Pau Torres",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 954,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 38734,
+      "name": "S. Botman",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 658,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 19346,
+      "name": "R. Henry",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Defender",
+      "minutes": 527,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 153066,
+      "name": "Fábio Carvalho",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Midfielder",
+      "minutes": 128,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 301771,
+      "name": "S. Adingra",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 475,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 365331,
+      "name": "N. Sadiki",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Midfielder",
+      "minutes": 1414,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 21694,
+      "name": "N. Aguerd",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Defender",
+      "minutes": 180,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 18883,
+      "name": "D. Solanke",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Attacker",
+      "minutes": 31,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 128895,
+      "name": "O. Sonne",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 129,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 391822,
+      "name": "Fer López",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Attacker",
+      "minutes": 236,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 18861,
+      "name": "N. Aké",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Defender",
+      "minutes": 223,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 366735,
+      "name": "Joshua Kofi Acheampong",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 396,
+      "shots_total": 2,
+      "shots_on_target": 2
+    },
+    {
+      "id": 126949,
+      "name": "C. Richards",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Defender",
+      "minutes": 1523,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 342970,
+      "name": "L. Yoro",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Defender",
+      "minutes": 1059,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 22090,
+      "name": "W. Saliba",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 1184,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 284500,
+      "name": "T. Iroegbunam",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 778,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 442044,
+      "name": "M. Dowman",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 36,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 1463,
+      "name": "J. Willock",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 251,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 19192,
+      "name": "J. Ramsey",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Midfielder",
+      "minutes": 472,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 2165,
+      "name": "V. Mykolenko",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 1442,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 727,
+      "name": "R. Nelson",
+      "team_name": "Brentford",
+      "team_id": 55,
+      "position": "Attacker",
+      "minutes": 48,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 18872,
+      "name": "L. Cook",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Midfielder",
+      "minutes": 416,
+      "shots_total": 2,
+      "shots_on_target": 0
+    },
+    {
+      "id": 37143,
+      "name": "L. Geertruida",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 730,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 641,
+      "name": "O. Zinchenko",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 359,
+      "shots_total": 2,
+      "shots_on_target": 2
+    },
+    {
+      "id": 284414,
+      "name": "R. Mundle",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 95,
+      "shots_total": 2,
+      "shots_on_target": 1
+    },
+    {
+      "id": 289,
+      "name": "A. Robertson",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 424,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 152654,
+      "name": "J. Frimpong",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 219,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 22136,
+      "name": "B. Diakité",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 1260,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 452685,
+      "name": "R. Ngumoha",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Attacker",
+      "minutes": 66,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 19179,
+      "name": "T. Mings",
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "position": "Defender",
+      "minutes": 498,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 18961,
+      "name": "D. Burn",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 1258,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 158694,
+      "name": "T. Livramento",
+      "team_name": "Newcastle",
+      "team_id": 34,
+      "position": "Defender",
+      "minutes": 977,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 296,
+      "name": "J. Milner",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Midfielder",
+      "minutes": 301,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 537,
+      "name": "J. Veltman",
+      "team_name": "Brighton",
+      "team_id": 51,
+      "position": "Defender",
+      "minutes": 510,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 2920,
+      "name": "T. Castagne",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 567,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 19305,
+      "name": "R. Yates",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Midfielder",
+      "minutes": 318,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 67943,
+      "name": "Morato",
+      "team_name": "Nottingham Forest",
+      "team_id": 65,
+      "position": "Defender",
+      "minutes": 716,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 22225,
+      "name": "Reinildo",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Defender",
+      "minutes": 1023,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 284446,
+      "name": "F. Potts",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 917,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 392270,
+      "name": "Marc Guiu",
+      "team_name": "Sunderland",
+      "team_id": 746,
+      "position": "Attacker",
+      "minutes": 23,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 25287,
+      "name": "K. Danso",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 598,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 627,
+      "name": "K. Walker",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 1614,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 285,
+      "name": "K. Hoever",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Midfielder",
+      "minutes": 428,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 18742,
+      "name": "M. Doherty",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 602,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 41606,
+      "name": "Toti Gomes",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 953,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 265782,
+      "name": "D. Møller Wolfe",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Midfielder",
+      "minutes": 711,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 265784,
+      "name": "André",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Midfielder",
+      "minutes": 1337,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 21138,
+      "name": "R. Aït-Nouri",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Defender",
+      "minutes": 205,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 278133,
+      "name": "Oscar Bobb",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Attacker",
+      "minutes": 472,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 284230,
+      "name": "R. Lewis",
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "position": "Defender",
+      "minutes": 226,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 22094,
+      "name": "W. Fofana",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 764,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 18862,
+      "name": "N. Clyne",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Defender",
+      "minutes": 289,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 284322,
+      "name": "K. Mainoo",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 229,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 402329,
+      "name": "A. Heaven",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Defender",
+      "minutes": 493,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 313245,
+      "name": "M. Lewis-Skelly",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Defender",
+      "minutes": 312,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 296560,
+      "name": "J. Tchatchoua",
+      "team_name": "Wolves",
+      "team_id": 39,
+      "position": "Defender",
+      "minutes": 932,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 19145,
+      "name": "T. Adarabioyo",
+      "team_name": "Chelsea",
+      "team_id": 49,
+      "position": "Defender",
+      "minutes": 564,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 19549,
+      "name": "A. Robinson",
+      "team_name": "Fulham",
+      "team_id": 36,
+      "position": "Defender",
+      "minutes": 332,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 180317,
+      "name": "C. Bradley",
+      "team_name": "Liverpool",
+      "team_id": 40,
+      "position": "Defender",
+      "minutes": 674,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 344707,
+      "name": "C. Marshall",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 58,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 204039,
+      "name": "D. Udogie",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 607,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 304317,
+      "name": "T. Dibling",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Midfielder",
+      "minutes": 302,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 181797,
+      "name": "B. Humphreys",
+      "team_name": "Burnley",
+      "team_id": 44,
+      "position": "Defender",
+      "minutes": 174,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 412719,
+      "name": "Veljko Milosavljević",
+      "team_name": "Bournemouth",
+      "team_id": 35,
+      "position": "Defender",
+      "minutes": 373,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 412759,
+      "name": "J. Canvot",
+      "team_name": "Crystal Palace",
+      "team_id": 52,
+      "position": "Defender",
+      "minutes": 126,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 138417,
+      "name": "N. Patterson",
+      "team_name": "Everton",
+      "team_id": 45,
+      "position": "Defender",
+      "minutes": 81,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 404574,
+      "name": "Luis Guilherme",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Attacker",
+      "minutes": 121,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 30407,
+      "name": "C. Nørgaard",
+      "team_name": "Arsenal",
+      "team_id": 42,
+      "position": "Midfielder",
+      "minutes": 40,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 383770,
+      "name": "J. Fletcher",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Midfielder",
+      "minutes": 107,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 2467,
+      "name": "Lisandro Martínez",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Defender",
+      "minutes": 281,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 401278,
+      "name": "M. Kanté",
+      "team_name": "West Ham",
+      "team_id": 48,
+      "position": "Midfielder",
+      "minutes": 28,
+      "shots_total": 1,
+      "shots_on_target": 0
+    },
+    {
+      "id": 557462,
+      "name": "S. Lacey",
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "position": "Attacker",
+      "minutes": 11,
+      "shots_total": 1,
+      "shots_on_target": 1
+    },
+    {
+      "id": 162498,
+      "name": "R. Drăgușin",
+      "team_name": "Tottenham",
+      "team_id": 47,
+      "position": "Defender",
+      "minutes": 13,
+      "shots_total": 1,
+      "shots_on_target": 0
+    }
+  ]
+}
