@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:45:26.897071Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 125743,
+    "player_name": "Beto",
+    "team": 45,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379156,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Everton",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 11,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379141,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "Burnley",
+      "away": "Everton",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 70,
+      "shots": 2,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379132,
+      "date": "2025-12-20T20:00:00+00:00",
+      "home": "Everton",
+      "away": "Arsenal",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 24,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379122,
+      "date": "2025-12-13T15:00:00+00:00",
+      "home": "Chelsea",
+      "away": "Everton",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 22,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379112,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Everton",
+      "away": "Nottingham Forest",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 28,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379100,
+      "date": "2025-12-02T19:30:00+00:00",
+      "home": "Bournemouth",
+      "away": "Everton",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 10,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379093,
+      "date": "2025-11-29T17:30:00+00:00",
+      "home": "Everton",
+      "away": "Newcastle",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 9,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379086,
+      "date": "2025-11-24T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Everton",
+      "player_id": 125743,
+      "player_name": "Beto",
+      "minutes": 9,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:43:31.584744Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 2939,
+    "player_name": "C. Wilson",
+    "team": 48,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379158,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "West Ham",
+      "away": "Brighton",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 63,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379148,
+      "date": "2025-12-27T15:00:00+00:00",
+      "home": "West Ham",
+      "away": "Fulham",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 34,
+      "shots": 2,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379135,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "West Ham",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 11,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379128,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "West Ham",
+      "away": "Aston Villa",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 9,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379111,
+      "date": "2025-12-07T14:00:00+00:00",
+      "home": "Brighton",
+      "away": "West Ham",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 18,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379106,
+      "date": "2025-12-04T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "West Ham",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 87,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379098,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "West Ham",
+      "away": "Liverpool",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 78,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379080,
+      "date": "2025-11-22T15:00:00+00:00",
+      "home": "Bournemouth",
+      "away": "West Ham",
+      "player_id": 2939,
+      "player_name": "C. Wilson",
+      "minutes": 52,
+      "shots": 3,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "8.7"
+    }
+  ]
+}

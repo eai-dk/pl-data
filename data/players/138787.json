@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:42:13.965855Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 138787,
+    "player_name": "A. Gordon",
+    "team": 34,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379151,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Newcastle",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 80,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379145,
+      "date": "2025-12-26T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Newcastle",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 90,
+      "shots": 2,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379136,
+      "date": "2025-12-20T12:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Chelsea",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 72,
+      "shots": 2,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "7.9"
+    },
+    {
+      "fixture_id": 1379127,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Newcastle",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 59,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379116,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Newcastle",
+      "away": "Burnley",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 74,
+      "shots": 3,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "8.6"
+    },
+    {
+      "fixture_id": 1379107,
+      "date": "2025-12-02T20:15:00+00:00",
+      "home": "Newcastle",
+      "away": "Tottenham",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 24,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "7.5"
+    },
+    {
+      "fixture_id": 1379093,
+      "date": "2025-11-29T17:30:00+00:00",
+      "home": "Everton",
+      "away": "Newcastle",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": 1,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379087,
+      "date": "2025-11-22T17:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Manchester City",
+      "player_id": 138787,
+      "player_name": "A. Gordon",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": null,
+      "rating": null
+    }
+  ]
+}

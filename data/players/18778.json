@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:42:59.212194Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 18778,
+    "player_name": "H. Barnes",
+    "team": 34,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379151,
+      "date": "2025-12-30T19:30:00+00:00",
+      "home": "Burnley",
+      "away": "Newcastle",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 72,
+      "shots": 2,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379145,
+      "date": "2025-12-26T20:00:00+00:00",
+      "home": "Manchester United",
+      "away": "Newcastle",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 22,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379136,
+      "date": "2025-12-20T12:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Chelsea",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 18,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.7"
+    },
+    {
+      "fixture_id": 1379127,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Sunderland",
+      "away": "Newcastle",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 31,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379116,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Newcastle",
+      "away": "Burnley",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": null,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "M",
+      "rating": null
+    },
+    {
+      "fixture_id": 1379107,
+      "date": "2025-12-02T20:15:00+00:00",
+      "home": "Newcastle",
+      "away": "Tottenham",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 66,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379093,
+      "date": "2025-11-29T17:30:00+00:00",
+      "home": "Everton",
+      "away": "Newcastle",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 71,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379087,
+      "date": "2025-11-22T17:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Manchester City",
+      "player_id": 18778,
+      "player_name": "H. Barnes",
+      "minutes": 85,
+      "shots": 4,
+      "shots_on_target": 3,
+      "position": "M",
+      "rating": "8.9"
+    }
+  ]
+}
