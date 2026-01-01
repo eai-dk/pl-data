@@ -1,0 +1,370 @@
+name,id,team_name,team_id,position,minutes,shots_total,shots_on_target
+E. Haaland,1100,Manchester City,50,Attacker,1556,62,37
+J. Mateta,25927,Crystal Palace,52,Attacker,1472,43,23
+A. Semenyo,19281,Bournemouth,35,Midfielder,1624,40,26
+B. Mbeumo,20589,Manchester United,33,Attacker,1404,36,24
+Matheus Cunha,1165,Manchester United,33,Attacker,1212,33,19
+D. Calvert-Lewin,18766,Leeds,63,Attacker,1117,32,17
+Thiago,196156,Brentford,55,Attacker,1493,31,21
+J. Bowen,19428,West Ham,48,Attacker,1710,31,20
+E. Fernández,5996,Chelsea,49,Midfielder,1553,29,16
+Bruno Fernandes,1485,Manchester United,33,Midfielder,1477,29,13
+B. Saka,1460,Arsenal,42,Attacker,1325,29,18
+Evanilson,152856,Bournemouth,35,Attacker,1277,27,10
+M. Gibbs-White,18746,Nottingham Forest,65,Midfielder,1614,27,11
+C. Gakpo,247,Liverpool,40,Midfielder,1149,26,7
+H. Ekitike,174565,Liverpool,40,Attacker,1047,26,10
+Y. Ayari,265820,Brighton,51,Midfielder,1348,26,8
+D. Brooks,18870,Bournemouth,35,Midfielder,858,25,12
+M. Rogers,19170,Aston Villa,66,Midfielder,1690,25,15
+O. Watkins,19366,Aston Villa,66,Attacker,1407,25,15
+D. Welbeck,1469,Brighton,51,Attacker,1086,24,12
+K. Schade,178077,Brentford,55,Midfielder,1417,24,16
+João Pedro,10329,Chelsea,49,Attacker,1459,24,14
+B. Šeško,115589,Manchester United,33,Attacker,861,24,12
+V. Gyökeres,18979,Arsenal,42,Attacker,1173,24,11
+P. Foden,631,Manchester City,50,Midfielder,1317,24,13
+Mohamed Salah,306,Liverpool,40,Midfielder,1183,23,11
+M. Tavernier,19245,Bournemouth,35,Midfielder,1522,23,11
+R. Jiménez,2887,Fulham,36,Attacker,1058,23,9
+T. Reijnders,36902,Manchester City,50,Midfielder,1177,23,11
+Bruno Guimarães,10135,Newcastle,34,Midfielder,1576,22,13
+J. Murphy,19163,Newcastle,34,Midfielder,924,22,10
+H. Wilson,19221,Fulham,36,Midfielder,1250,22,11
+W. Isidor,84087,Sunderland,746,Attacker,947,22,12
+D. Szoboszlai,1096,Liverpool,40,Midfielder,1523,21,11
+L. Trossard,1946,Arsenal,42,Attacker,1058,21,10
+J. Garner,895,Everton,45,Defender,1710,21,7
+D. Malen,249,Aston Villa,66,Attacker,657,20,9
+N. Woltemade,158054,Newcastle,34,Attacker,1187,20,11
+G. Rutter,90590,Brighton,51,Attacker,1199,19,10
+Y. Minteh,383685,Brighton,51,Midfielder,1549,19,7
+Igor Jesus,9366,Nottingham Forest,65,Attacker,984,19,7
+Richarlison,2413,Tottenham,47,Attacker,1075,19,11
+A. Gordon,138787,Newcastle,34,Attacker,866,18,9
+D. Gómez,278370,Brighton,51,Midfielder,1124,18,11
+Pedro Neto,1864,Chelsea,49,Midfielder,1472,18,11
+D. Rice,2937,Arsenal,42,Midfielder,1519,18,8
+J. Timber,38746,Arsenal,42,Defender,1462,18,5
+A. Stach,177665,Leeds,63,Midfielder,1273,18,8
+A. Garnacho,284324,Chelsea,49,Attacker,765,18,5
+H. Barnes,18778,Newcastle,34,Attacker,832,17,10
+Lucas Paquetá,1646,West Ham,48,Attacker,1458,17,11
+A. Diallo,157997,Manchester United,33,Attacker,1205,17,9
+D. Ouattara,284797,Brentford,55,Midfielder,1065,17,7
+C. Wood,18931,Nottingham Forest,65,Attacker,544,16,6
+C. Wilson,2939,West Ham,48,Attacker,720,16,9
+Casemiro,747,Manchester United,33,Midfielder,1153,16,6
+I. Ndiaye,18592,Everton,45,Midfielder,1348,16,12
+D. Ballard,55904,Sunderland,746,Defender,1120,15,7
+R. Calafiori,157052,Arsenal,42,Defender,1263,15,5
+B. Aaronson,50739,Leeds,63,Midfielder,1012,15,9
+A. Scott,304853,Bournemouth,35,Midfielder,1261,14,5
+M. Kudus,15911,Tottenham,47,Attacker,1436,14,8
+Z. Flemming,36927,Burnley,44,Midfielder,698,14,9
+T. Barry,343684,Everton,45,Attacker,940,14,4
+A. Mac Allister,6716,Liverpool,40,Midfielder,1190,13,6
+E. Kroupi,368030,Bournemouth,35,Attacker,501,13,9
+C. Hudson-Odoi,2298,Nottingham Forest,65,Midfielder,1033,13,6
+N. Williams,138780,Nottingham Forest,65,Defender,1716,13,10
+J. Strand Larsen,2032,Wolves,39,Attacker,1262,13,7
+I. Sarr,2218,Crystal Palace,52,Attacker,1012,13,6
+M. Ødegaard,37127,Arsenal,42,Midfielder,727,13,7
+J. Zirkzee,70100,Manchester United,33,Attacker,464,13,6
+Beto,125743,Everton,45,Attacker,795,13,5
+A. Isak,2864,Liverpool,40,Attacker,519,13,4
+F. Wirtz,203224,Liverpool,40,Midfielder,1182,12,7
+E. Buendía,19071,Aston Villa,66,Midfielder,693,12,4
+M. Cash,19298,Aston Villa,66,Defender,1595,12,7
+J. Anthony,196855,Burnley,44,Midfielder,1158,12,9
+M. Munetsi,3080,Wolves,39,Attacker,877,12,6
+D. Muñoz,13736,Crystal Palace,52,Midfielder,1259,12,8
+M. Mount,19220,Manchester United,33,Attacker,789,12,5
+L. Nmecha,19461,Leeds,63,Attacker,516,12,8
+P. Struijk,64003,Leeds,63,Defender,1358,12,3
+J. Grealish,19187,Everton,45,Midfielder,1367,12,8
+C. Summerville,37724,West Ham,48,Attacker,967,12,5
+T. Arokodare,110153,Wolves,39,Attacker,516,12,3
+J.  McGinn,19191,Aston Villa,66,Midfielder,1442,11,5
+F. Schär,2806,Newcastle,34,Defender,932,11,3
+B. Gruda,328225,Brighton,51,Midfielder,574,11,5
+E. Smith Rowe,1161,Fulham,36,Midfielder,678,11,6
+A. Iwobi,1455,Fulham,36,Midfielder,1339,11,7
+Joshua King,389315,Fulham,36,Midfielder,874,11,6
+J. Doku,1422,Manchester City,50,Attacker,942,11,8
+N. O&apos;Reilly,307123,Manchester City,50,Midfielder,1315,11,4
+T. Chalobah,19720,Chelsea,49,Defender,1567,11,5
+C. Palmer,152982,Chelsea,49,Midfielder,504,11,6
+Martín Zubimendi,47315,Arsenal,42,Midfielder,1602,11,5
+A. Tanaka,32966,Leeds,63,Midfielder,708,11,3
+K. Dewsbury-Hall,148099,Everton,45,Midfielder,1262,11,5
+C. Alcaraz,195993,Everton,45,Midfielder,686,11,5
+N. Okafor,48389,Leeds,63,Attacker,935,11,5
+R. Gravenberch,542,Liverpool,40,Midfielder,1412,11,7
+O. Hutchinson,284428,Nottingham Forest,65,Attacker,759,11,6
+Yeremy Pino,184226,Crystal Palace,52,Midfielder,1100,11,6
+Joelinton,723,Newcastle,34,Midfielder,1053,10,6
+N. Milenković,2817,Nottingham Forest,65,Defender,1716,10,1
+E. Anderson,138908,Nottingham Forest,65,Midfielder,1716,10,5
+L. Ugochukwu,270508,Burnley,44,Midfielder,1147,10,6
+J. Bellegarde,20665,Wolves,39,Attacker,691,10,4
+Rodrigo Gomes,282770,Wolves,39,Defender,332,10,3
+R. Cherki,156477,Manchester City,50,Midfielder,652,10,6
+Estêvão,425733,Chelsea,49,Attacker,569,10,5
+Diogo Dalot,886,Manchester United,33,Midfielder,1230,10,3
+P. Dorgu,382452,Manchester United,33,Midfielder,998,10,4
+Mikel Merino,47311,Arsenal,42,Midfielder,932,10,5
+Gabriel Martinelli,127769,Arsenal,42,Attacker,419,10,4
+L. Krejčí,66407,Wolves,39,Defender,1235,10,7
+X. Simons,162016,Tottenham,47,Attacker,838,10,4
+Y. Tielemans,2926,Aston Villa,66,Midfielder,955,9,4
+S. Tonali,31146,Newcastle,34,Midfielder,1332,9,5
+M. Thiaw,163189,Newcastle,34,Defender,1360,9,5
+K. Lewis-Potter,106725,Brentford,55,Midfielder,749,9,5
+O. Alderete,6168,Sunderland,746,Defender,1207,9,6
+E. Le Fée,20638,Sunderland,746,Midfielder,1310,9,2
+C. Talbi,336659,Sunderland,746,Attacker,885,9,4
+E. Diouf,409303,West Ham,48,Midfielder,1388,9,2
+João Palhinha,41104,Tottenham,47,Midfielder,1114,9,4
+W. Odobert,336564,Tottenham,47,Attacker,550,9,3
+L. Tchaouna,161621,Burnley,44,Attacker,735,9,4
+J. Arias,13708,Wolves,39,Midfielder,912,9,2
+Hwang Hee-Chan,24888,Wolves,39,Attacker,736,9,4
+R. James,19545,Chelsea,49,Defender,1252,9,6
+L. Delap,161948,Chelsea,49,Attacker,460,9,5
+J. Devenny,286458,Crystal Palace,52,Midfielder,339,9,4
+A. Wharton,288102,Crystal Palace,52,Midfielder,1303,9,3
+E. Ampadu,2279,Leeds,63,Midfielder,1413,9,3
+S. Longstaff,18901,Leeds,63,Midfielder,880,9,2
+J. Rodon,19321,Leeds,63,Defender,1561,9,4
+I. Gueye,2990,Everton,45,Midfielder,1055,9,3
+J. Kluivert,792,Bournemouth,35,Attacker,849,9,4
+M. Damsgaard,15908,Brentford,55,Midfielder,1050,9,5
+D. Kamada,2601,Crystal Palace,52,Attacker,1173,9,4
+B. Traoré,671,Sunderland,746,Attacker,616,9,6
+J. Gvardiol,129033,Manchester City,50,Defender,1220,9,4
+Kevin,237819,Fulham,36,Attacker,566,9,6
+E. Nketiah,1468,Crystal Palace,52,Attacker,416,9,6
+S. Chukwueze,1696,Fulham,36,Attacker,395,9,3
+V. van Dijk,290,Liverpool,40,Defender,1620,8,4
+C. Jones,293,Liverpool,40,Midfielder,816,8,3
+Rodrigo Muniz,195106,Fulham,36,Attacker,353,8,3
+I. Sangaré,22149,Nottingham Forest,65,Midfielder,870,8,3
+N. Collins,19495,Brentford,55,Defender,1546,8,3
+T. Souček,1243,West Ham,48,Midfielder,603,8,7
+M. van de Ven,152849,Tottenham,47,Defender,1520,8,3
+J. Bruun Larsen,22,Burnley,44,Attacker,814,8,4
+Marc Cucurella,47380,Chelsea,49,Defender,1507,8,2
+M. de Ligt,532,Manchester United,33,Defender,1170,8,3
+M. Keane,2934,Everton,45,Defender,1505,8,3
+Sávio,266657,Manchester City,50,Attacker,501,8,6
+C. Kostoulas,392482,Brighton,51,Attacker,116,8,3
+F. Chiesa,30410,Liverpool,40,Attacker,245,7,2
+T. Adams,1150,Bournemouth,35,Midfielder,1202,7,6
+F. Kadıoğlu,1361,Brighton,51,Defender,1426,7,4
+L. Dunk,18963,Brighton,51,Defender,1575,7,0
+J. van Hecke,38695,Brighton,51,Defender,1620,7,7
+M. Wieffer,92993,Brighton,51,Defender,1188,7,2
+K. Mitoma,106835,Brighton,51,Midfielder,594,7,4
+C. Baleba,356041,Brighton,51,Midfielder,911,7,0
+S. Lukić,2823,Fulham,36,Midfielder,950,7,2
+S. van den Berg,36922,Brentford,55,Defender,1530,7,4
+Y. Yarmolyuk,263538,Brentford,55,Midfielder,1323,7,3
+G. Xhaka,1464,Sunderland,746,Midfielder,1603,7,4
+N. Füllkrug,25391,West Ham,48,Attacker,408,7,3
+C. Romero,30776,Tottenham,47,Defender,1189,7,4
+L. Bergvall,347316,Tottenham,47,Midfielder,738,7,4
+J. Cullen,19827,Burnley,44,Midfielder,1519,7,6
+J. Laurent,20303,Burnley,44,Midfielder,890,7,3
+L. Foster,98936,Burnley,44,Attacker,874,7,2
+M. Gusto,161907,Chelsea,49,Defender,1061,7,4
+M. Guéhi,67971,Crystal Palace,52,Defender,1530,7,3
+Gabriel Magalhães,22224,Arsenal,42,Defender,1086,7,2
+J. Bogle,19201,Leeds,63,Defender,1578,7,2
+G. Gudmundsson,47969,Leeds,63,Defender,1474,7,2
+A. Adli,129682,Bournemouth,35,Attacker,418,7,5
+B. Brobbey,38750,Sunderland,746,Attacker,478,7,4
+A. Broja,138822,Burnley,44,Attacker,504,7,6
+R. Kolo Muani,21104,Tottenham,47,Attacker,679,7,2
+M. Kerkez,206254,Liverpool,40,Defender,1224,6,1
+M. Senesi,6610,Bournemouth,35,Defender,1585,6,3
+A. Elanga,153430,Newcastle,34,Attacker,688,6,3
+M. De Cuyper,162007,Brighton,51,Defender,895,6,5
+K. Tete,657,Fulham,36,Defender,1296,6,3
+J. Andersen,2729,Fulham,36,Defender,1482,6,2
+D. Ndoye,48648,Nottingham Forest,65,Midfielder,1006,6,3
+K. Ajer,1119,Brentford,55,Defender,713,6,2
+T. Hume,119121,Sunderland,746,Defender,1473,6,2
+H. Diarra,327631,Sunderland,746,Midfielder,373,6,1
+K. Mavropanos,1445,West Ham,48,Defender,907,6,2
+R. Bentancur,863,Tottenham,47,Midfielder,1149,6,2
+M. Edwards,37882,Burnley,44,Attacker,285,6,3
+M. Estève,179400,Burnley,44,Defender,1447,6,1
+E. Agbadou,135068,Wolves,39,Defender,1011,6,3
+João Gomes,195103,Wolves,39,Midfielder,1461,6,2
+Omar Marmoush,81573,Manchester City,50,Attacker,233,6,3
+Andrey Santos,305834,Chelsea,49,Midfielder,459,6,1
+M. Lacroix,20995,Crystal Palace,52,Defender,1620,6,1
+N. Madueke,136723,Arsenal,42,Attacker,439,6,3
+N. Mukiele,1146,Sunderland,746,Defender,1440,6,2
+M. Mane,456206,Wolves,39,Attacker,280,6,4
+I. Konaté,1145,Liverpool,40,Defender,1521,5,2
+A. Truffert,162267,Bournemouth,35,Defender,1675,5,1
+L. Digne,2724,Aston Villa,66,Defender,1127,5,4
+I. Maatsen,138816,Aston Villa,66,Defender,615,5,2
+L. Miley,328105,Newcastle,34,Midfielder,848,5,3
+T. Cairney,19025,Fulham,36,Midfielder,263,5,0
+T. Awoniyi,8598,Nottingham Forest,65,Attacker,194,5,3
+Pedro Porro,47519,Tottenham,47,Defender,1419,5,1
+B. Johnson,129711,Tottenham,47,Attacker,628,5,2
+P. Sarr,237129,Tottenham,47,Midfielder,713,5,4
+M. Tel,270510,Tottenham,47,Attacker,293,5,2
+Q. Hartman,375915,Burnley,44,Defender,1339,5,2
+M. Caicedo,116117,Chelsea,49,Midfielder,1258,5,4
+J. Lerma,2490,Crystal Palace,52,Midfielder,632,5,2
+T. Mitchell,182201,Crystal Palace,52,Midfielder,1614,5,3
+J. Harrison,19128,Leeds,63,Attacker,263,5,2
+D. James,19329,Leeds,63,Attacker,357,5,2
+J. Tarkowski,2936,Everton,45,Defender,1716,5,2
+R. Christie,1125,Bournemouth,35,Midfielder,288,5,2
+R. Sessegnon,19032,Fulham,36,Defender,1109,5,3
+Mateus Fernandes,336585,West Ham,48,Midfielder,1331,5,2
+Florentino,575,Burnley,44,Midfielder,1138,5,1
+Y. Wissa,20649,Newcastle,34,Attacker,150,5,2
+B. Kamara,1904,Aston Villa,66,Midfielder,1246,4,4
+E. Guessand,137303,Aston Villa,66,Attacker,525,4,4
+A. Onana,162714,Aston Villa,66,Midfielder,904,4,3
+L. Hall,284492,Newcastle,34,Defender,796,4,1
+W. Osula,315237,Newcastle,34,Attacker,236,4,3
+M. O&apos;Riley,19030,Brighton,51,Midfielder,178,4,2
+Murillo,363695,Nottingham Forest,65,Defender,1107,4,3
+J. Henderson,292,Brentford,55,Midfielder,1232,4,1
+M. Jensen,47438,Brentford,55,Midfielder,648,4,2
+K. Walker-Peters,171,West Ham,48,Defender,782,4,2
+M. Kilman,18744,West Ham,48,Defender,1449,4,1
+D. Spence,19235,Tottenham,47,Defender,1168,4,3
+H. Ekdal,47903,Burnley,44,Defender,1080,4,1
+Lucas Pires,330238,Burnley,44,Defender,329,4,0
+Y. Mosquera,195717,Wolves,39,Defender,691,4,2
+Hugo Bueno,280687,Wolves,39,Defender,987,4,2
+Rúben Dias,567,Manchester City,50,Defender,1544,4,3
+Matheus Nunes,41621,Manchester City,50,Midfielder,1324,4,1
+J. Bynoe-Gittens,286894,Chelsea,49,Midfielder,455,4,2
+H. Maguire,2935,Manchester United,33,Defender,356,4,1
+E. Nwaneri,313236,Arsenal,42,Midfielder,175,4,0
+J. Piroe,250,Leeds,63,Attacker,230,4,2
+J. O&apos;Brien,270139,Everton,45,Defender,1593,4,2
+J. Bijol,833,Leeds,63,Defender,715,4,3
+J. Hinshelwood,305730,Brighton,51,Midfielder,505,4,2
+N. Savona,181806,Nottingham Forest,65,Defender,1005,4,3
+V. Janelt,25073,Brentford,55,Midfielder,502,4,1
+D. Bakwa,129695,Nottingham Forest,65,Attacker,196,4,3
+M. Röhl,202854,Everton,45,Midfielder,223,4,0
+J. Sancho,18,Aston Villa,66,Attacker,229,4,3
+R. Barkley,2287,Aston Villa,66,Midfielder,128,4,2
+E. Ünal,47499,Bournemouth,35,Attacker,80,4,2
+J. Hill,20093,Bournemouth,35,Defender,415,3,1
+S. Berge,1934,Fulham,36,Midfielder,1552,3,3
+Adama Traoré,18753,Fulham,36,Attacker,289,3,1
+C. Bassey,152967,Fulham,36,Defender,1358,3,1
+A. Hickey,44871,Brentford,55,Defender,440,3,1
+M. Kayode,342022,Brentford,55,Defender,1571,3,1
+C. Rigg,339201,Sunderland,746,Midfielder,321,3,0
+Eliezer Mayenda,349799,Sunderland,746,Attacker,295,3,2
+O. Scarles,327730,West Ham,48,Defender,314,3,0
+A. Gray,328089,Tottenham,47,Midfielder,450,3,2
+H. Mejbri,180560,Burnley,44,Midfielder,407,3,1
+S. Bueno,135334,Wolves,39,Defender,844,3,3
+Bernardo Silva,636,Manchester City,50,Midfielder,1240,3,0
+Nico González,161933,Manchester City,50,Midfielder,1227,3,2
+W. Hughes,18806,Crystal Palace,52,Midfielder,643,3,0
+E. Eze,19586,Crystal Palace,52,Attacker,84,3,2
+Tyrique George,334037,Chelsea,49,Attacker,151,3,2
+M. Ugarte,51494,Manchester United,33,Midfielder,559,3,1
+B. White,19959,Arsenal,42,Defender,298,3,1
+W. Gnonto,162128,Leeds,63,Attacker,320,3,0
+D. McNeil,18929,Everton,45,Attacker,366,3,0
+Rodri,44,Manchester City,50,Midfielder,294,3,1
+Douglas Luiz,47522,Nottingham Forest,65,Midfielder,323,3,1
+T. Watson,329369,Brighton,51,Attacker,164,3,1
+Álex Jiménez,330437,Bournemouth,35,Defender,992,3,1
+S. Tzimas,343311,Brighton,51,Attacker,164,3,1
+Christantus Uche,403554,Crystal Palace,52,Midfielder,101,3,2
+S. Magassa,326176,West Ham,48,Midfielder,693,3,2
+N. Domínguez,6056,Nottingham Forest,65,Midfielder,399,3,1
+Gabriel Jesus,643,Arsenal,42,Attacker,75,3,2
+J. Gomez,284,Liverpool,40,Defender,262,2,0
+E. Konsa,19354,Aston Villa,66,Defender,1605,2,2
+Pau Torres,46815,Aston Villa,66,Defender,954,2,0
+S. Botman,38734,Newcastle,34,Defender,658,2,1
+R. Henry,19346,Brentford,55,Defender,527,2,0
+Fábio Carvalho,153066,Brentford,55,Midfielder,128,2,1
+S. Adingra,301771,Sunderland,746,Attacker,475,2,1
+N. Sadiki,365331,Sunderland,746,Midfielder,1414,2,0
+N. Aguerd,21694,West Ham,48,Defender,180,2,0
+D. Solanke,18883,Tottenham,47,Attacker,31,2,1
+O. Sonne,128895,Burnley,44,Defender,129,2,1
+Fer López,391822,Wolves,39,Attacker,236,2,1
+N. Aké,18861,Manchester City,50,Defender,223,2,0
+Joshua Kofi Acheampong,366735,Chelsea,49,Defender,396,2,2
+C. Richards,126949,Crystal Palace,52,Defender,1523,2,0
+L. Yoro,342970,Manchester United,33,Defender,1059,2,0
+W. Saliba,22090,Arsenal,42,Defender,1184,2,0
+T. Iroegbunam,284500,Everton,45,Midfielder,778,2,0
+M. Dowman,442044,Arsenal,42,Midfielder,36,2,0
+J. Willock,1463,Newcastle,34,Midfielder,251,2,0
+J. Ramsey,19192,Newcastle,34,Midfielder,472,2,1
+V. Mykolenko,2165,Everton,45,Defender,1442,2,1
+R. Nelson,727,Brentford,55,Attacker,48,2,1
+L. Cook,18872,Bournemouth,35,Midfielder,416,2,0
+L. Geertruida,37143,Sunderland,746,Defender,730,2,1
+O. Zinchenko,641,Nottingham Forest,65,Defender,359,2,2
+R. Mundle,284414,Sunderland,746,Attacker,95,2,1
+A. Robertson,289,Liverpool,40,Defender,424,1,1
+J. Frimpong,152654,Liverpool,40,Defender,219,1,1
+B. Diakité,22136,Bournemouth,35,Defender,1260,1,0
+R. Ngumoha,452685,Liverpool,40,Attacker,66,1,1
+T. Mings,19179,Aston Villa,66,Defender,498,1,0
+D. Burn,18961,Newcastle,34,Defender,1258,1,0
+T. Livramento,158694,Newcastle,34,Defender,977,1,0
+J. Milner,296,Brighton,51,Midfielder,301,1,1
+J. Veltman,537,Brighton,51,Defender,510,1,1
+T. Castagne,2920,Fulham,36,Defender,567,1,1
+R. Yates,19305,Nottingham Forest,65,Midfielder,318,1,1
+Morato,67943,Nottingham Forest,65,Defender,716,1,0
+Reinildo,22225,Sunderland,746,Defender,1023,1,0
+F. Potts,284446,West Ham,48,Midfielder,917,1,1
+Marc Guiu,392270,Sunderland,746,Attacker,23,1,0
+K. Danso,25287,Tottenham,47,Defender,598,1,0
+K. Walker,627,Burnley,44,Defender,1614,1,0
+K. Hoever,285,Wolves,39,Midfielder,428,1,1
+M. Doherty,18742,Wolves,39,Defender,602,1,0
+Toti Gomes,41606,Wolves,39,Defender,953,1,1
+D. Møller Wolfe,265782,Wolves,39,Midfielder,711,1,0
+André,265784,Wolves,39,Midfielder,1337,1,0
+R. Aït-Nouri,21138,Manchester City,50,Defender,205,1,0
+Oscar Bobb,278133,Manchester City,50,Attacker,472,1,0
+R. Lewis,284230,Manchester City,50,Defender,226,1,0
+W. Fofana,22094,Chelsea,49,Defender,764,1,0
+N. Clyne,18862,Crystal Palace,52,Defender,289,1,0
+K. Mainoo,284322,Manchester United,33,Midfielder,229,1,0
+A. Heaven,402329,Manchester United,33,Defender,493,1,0
+M. Lewis-Skelly,313245,Arsenal,42,Defender,312,1,0
+J. Tchatchoua,296560,Wolves,39,Defender,932,1,0
+T. Adarabioyo,19145,Chelsea,49,Defender,564,1,0
+A. Robinson,19549,Fulham,36,Defender,332,1,0
+C. Bradley,180317,Liverpool,40,Defender,674,1,0
+C. Marshall,344707,West Ham,48,Attacker,58,1,0
+D. Udogie,204039,Tottenham,47,Defender,607,1,0
+T. Dibling,304317,Everton,45,Midfielder,302,1,0
+B. Humphreys,181797,Burnley,44,Defender,174,1,0
+Veljko Milosavljević,412719,Bournemouth,35,Defender,373,1,0
+J. Canvot,412759,Crystal Palace,52,Defender,126,1,0
+N. Patterson,138417,Everton,45,Defender,81,1,1
+Luis Guilherme,404574,West Ham,48,Attacker,121,1,0
+C. Nørgaard,30407,Arsenal,42,Midfielder,40,1,1
+J. Fletcher,383770,Manchester United,33,Midfielder,107,1,0
+Lisandro Martínez,2467,Manchester United,33,Defender,281,1,0
+M. Kanté,401278,West Ham,48,Midfielder,28,1,0
+S. Lacey,557462,Manchester United,33,Attacker,11,1,1
+R. Drăgușin,162498,Tottenham,47,Defender,13,1,0
