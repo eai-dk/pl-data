@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:15:31.573596Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 19366,
+    "player_name": "O. Watkins",
+    "team": 66,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379149,
+      "date": "2025-12-30T20:15:00+00:00",
+      "home": "Arsenal",
+      "away": "Aston Villa",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 90,
+      "shots": 4,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379142,
+      "date": "2025-12-27T17:30:00+00:00",
+      "home": "Chelsea",
+      "away": "Aston Villa",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 32,
+      "shots": 4,
+      "shots_on_target": 4,
+      "position": "F",
+      "rating": "9.2"
+    },
+    {
+      "fixture_id": 1379129,
+      "date": "2025-12-21T16:30:00+00:00",
+      "home": "Aston Villa",
+      "away": "Manchester United",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 75,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379128,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "West Ham",
+      "away": "Aston Villa",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 75,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379109,
+      "date": "2025-12-06T12:30:00+00:00",
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 66,
+      "shots": 2,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "6.9"
+    },
+    {
+      "fixture_id": 1379101,
+      "date": "2025-12-03T19:30:00+00:00",
+      "home": "Brighton",
+      "away": "Aston Villa",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 86,
+      "shots": 3,
+      "shots_on_target": 3,
+      "position": "F",
+      "rating": "8.6"
+    },
+    {
+      "fixture_id": 1379089,
+      "date": "2025-11-30T14:05:00+00:00",
+      "home": "Aston Villa",
+      "away": "Wolves",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 36,
+      "shots": null,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.6"
+    },
+    {
+      "fixture_id": 1379084,
+      "date": "2025-11-23T14:00:00+00:00",
+      "home": "Leeds",
+      "away": "Aston Villa",
+      "player_id": 19366,
+      "player_name": "O. Watkins",
+      "minutes": 68,
+      "shots": 3,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.5"
+    }
+  ]
+}

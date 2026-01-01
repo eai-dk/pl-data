@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-01-01T11:13:35.299351Z",
+  "source": "api-football (api-sports) v3",
+  "query": {
+    "player_id": 1100,
+    "player_name": "E. Haaland",
+    "team": 50,
+    "league": 39,
+    "season": 2025,
+    "last": 8
+  },
+  "matches": [
+    {
+      "fixture_id": 1379146,
+      "date": "2025-12-27T12:30:00+00:00",
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": null,
+      "position": "F",
+      "rating": "6.5"
+    },
+    {
+      "fixture_id": 1379135,
+      "date": "2025-12-20T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "West Ham",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 7,
+      "shots_on_target": 3,
+      "position": "F",
+      "rating": "8.6"
+    },
+    {
+      "fixture_id": 1379123,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 89,
+      "shots": 2,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "8.5"
+    },
+    {
+      "fixture_id": 1379115,
+      "date": "2025-12-06T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 69,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6"
+    },
+    {
+      "fixture_id": 1379103,
+      "date": "2025-12-02T19:30:00+00:00",
+      "home": "Fulham",
+      "away": "Manchester City",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 3,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "8.7"
+    },
+    {
+      "fixture_id": 1379094,
+      "date": "2025-11-29T15:00:00+00:00",
+      "home": "Manchester City",
+      "away": "Leeds",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 1,
+      "shots_on_target": 1,
+      "position": "F",
+      "rating": "6.2"
+    },
+    {
+      "fixture_id": 1379087,
+      "date": "2025-11-22T17:30:00+00:00",
+      "home": "Newcastle",
+      "away": "Manchester City",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 4,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "6.3"
+    },
+    {
+      "fixture_id": 1379074,
+      "date": "2025-11-09T16:30:00+00:00",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "player_id": 1100,
+      "player_name": "E. Haaland",
+      "minutes": 90,
+      "shots": 2,
+      "shots_on_target": 2,
+      "position": "F",
+      "rating": "7"
+    }
+  ]
+}
